@@ -88,7 +88,7 @@ export class DevSeederPermissionsService {
 
     if (workspaceId === SEED_APPLE_WORKSPACE_ID) {
       if (light) {
-        // In light mode, Tim is admin (prefilled login user needs full
+        // In light mode, Avarile is admin (prefilled login user needs full
         // access for SDK development). No demo permission roles needed.
         adminUserWorkspaceId = USER_WORKSPACE_DATA_SEED_IDS.TIM;
         memberUserWorkspaceIds = [

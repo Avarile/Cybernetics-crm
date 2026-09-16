@@ -144,8 +144,8 @@ describe('roles permissions', () => {
         {
           id: '20202020-0687-4c41-b707-ed1bfca972a7',
           name: {
-            firstName: 'Tim',
-            lastName: 'Apple',
+            firstName: 'Avarile',
+            lastName: 'Wang',
           },
         },
       ]);

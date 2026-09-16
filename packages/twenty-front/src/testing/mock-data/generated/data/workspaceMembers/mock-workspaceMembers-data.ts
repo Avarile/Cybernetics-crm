@@ -9095,8 +9095,8 @@ export const mockedWorkspaceMemberRecords: ObjectRecord[] =
     },
     "name": {
       "__typename": "FullName",
-      "firstName": "Tim",
-      "lastName": "Apple"
+      "firstName": "Avarile",
+      "lastName": "Wang"
     },
     "numberFormat": "SYSTEM",
     "ownedOpportunities": {
@@ -14320,7 +14320,7 @@ export const mockedWorkspaceMemberRecords: ObjectRecord[] =
       "name": "System",
       "context": null
     },
-    "userEmail": "tim@apple.dev",
+    "userEmail": "avarile@gmail.com",
     "userId": "20202020-9e3b-46d4-a556-88b9ddc2b034"
   },
   {

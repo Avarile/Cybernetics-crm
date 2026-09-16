@@ -144,8 +144,8 @@ const CREATE_WORKSPACE_MEMBER_PARTICIPANT = (
       return {
         workspaceMemberId: WORKSPACE_MEMBER_ID,
         personId: personIds[0],
-        displayName: 'Tim Apple',
-        handle: 'tim@apple.dev',
+        displayName: 'Avarile Wang',
+        handle: 'avarile@gmail.com',
       };
     case WORKSPACE_MEMBER_DATA_SEED_IDS.JONY:
       return {

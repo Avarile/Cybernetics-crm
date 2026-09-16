@@ -6,8 +6,8 @@ const AUTH_DIR = path.resolve(__dirname, '.auth');
 const STORAGE_STATE = path.join(AUTH_DIR, 'user.json');
 const WORKSPACE_ORIGIN_FILE = path.join(AUTH_DIR, 'workspace-origin.txt');
 
-const LOGIN = process.env.E2E_LOGIN ?? 'tim@apple.dev';
-const PASSWORD = process.env.E2E_PASSWORD ?? 'tim@apple.dev';
+const LOGIN = process.env.E2E_LOGIN ?? 'avarile@gmail.com';
+const PASSWORD = process.env.E2E_PASSWORD ?? 'Avarile19840123!';
 const WORKSPACE_NAME = process.env.E2E_WORKSPACE_NAME ?? 'Apple';
 
 const isVisible = async (locator: Locator) =>

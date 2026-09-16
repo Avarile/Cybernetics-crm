@@ -30,7 +30,7 @@ Follow these steps to get your app running locally.
    yarn twenty dev
    ```
 
-4. Open [http://localhost:2020](http://localhost:2020) and log in with the default development credentials: `tim@apple.dev` / `tim@apple.dev`.
+4. Open [http://localhost:2020](http://localhost:2020) and log in with the default development credentials: `avarile@gmail.com` / `Avarile19840123!`.
 
 ## Verifying your setup
 

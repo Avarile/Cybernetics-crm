@@ -25,11 +25,11 @@ export const seedUsers = async ({ queryRunner, schemaName }: SeedUsersArgs) => {
   const originalUsers = [
     {
       id: USER_DATA_SEED_IDS.TIM,
-      firstName: 'Tim',
-      lastName: 'Apple',
-      email: 'tim@apple.dev',
+      firstName: 'Avarile',
+      lastName: 'Wang',
+      email: 'avarile@gmail.com',
       passwordHash:
-        '$2b$10$3LwXjJRtLsfx4hLuuXhxt.3mWgismTiZFCZSG3z9kDrSfsrBl0fT6', // tim@apple.dev
+        '$2b$10$mXyQFZZuf3o8sMgqcjh.NON8hAqax/4z6PgZdP7.9RrbCIM6ZPKz.',
       canImpersonate: true,
       canAccessFullAdminPanel: true,
       isEmailVerified: true,

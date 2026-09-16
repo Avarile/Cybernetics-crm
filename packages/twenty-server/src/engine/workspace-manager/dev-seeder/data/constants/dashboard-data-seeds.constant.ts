@@ -46,10 +46,10 @@ export const getDashboardDataSeeds = (
     ),
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim Apple',
+    createdByName: 'Avarile Wang',
     updatedBySource: 'MANUAL',
     updatedByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    updatedByName: 'Tim Apple',
+    updatedByName: 'Avarile Wang',
     position: 0,
   },
   {

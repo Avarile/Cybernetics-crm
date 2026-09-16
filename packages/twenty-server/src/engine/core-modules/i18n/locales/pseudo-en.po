@@ -138,9 +138,9 @@ msgstr ""
 msgid "A hand-picked audience of people"
 msgstr ""
 
-#. js-lingui-id: TF/ZV2
+#. js-lingui-id: tZuG5r
 #: src/engine/core-modules/billing/reminders/services/billing-reminder.service.ts
-msgid "A heads up before your Twenty trial ends"
+msgid "A heads up before your Cybernetics trial ends"
 msgstr ""
 
 #. js-lingui-id: 6yZjO1
@@ -4280,9 +4280,9 @@ msgstr ""
 msgid "Join table linking message channel message associations to message folders"
 msgstr ""
 
-#. js-lingui-id: PviVyk
+#. js-lingui-id: B9uw5T
 #: src/engine/core-modules/workspace-invitation/services/workspace-invitation.service.ts
-msgid "Join your team on Twenty"
+msgid "Join your team on Cybernetics"
 msgstr ""
 
 #. js-lingui-id: ffWso3
@@ -7199,9 +7199,9 @@ msgstr ""
 msgid "System fields cannot be updated"
 msgstr ""
 
-#. js-lingui-id: aK2k19
+#. js-lingui-id: z7sVs8
 #: src/engine/metadata-modules/index-metadata/services/index-metadata.service.ts
-msgid "System indexes are required for Twenty to work and cannot be deleted."
+msgid "System indexes are required for Cybernetics to work and cannot be deleted."
 msgstr ""
 
 #. js-lingui-id: /ojawH
@@ -7848,10 +7848,10 @@ msgstr ""
 msgid "This API key has no role assigned."
 msgstr ""
 
-#. js-lingui-id: zISk4k
+#. js-lingui-id: E1/sDY
 #: src/engine/core-modules/application/application-registration/application-registration.exception.ts
 #: src/engine/core-modules/application/application.exception.ts
-msgid "This app requires a newer version of the Twenty server. Please upgrade your server or use a compatible app version."
+msgid "This app requires a newer version of the Cybernetics server. Please upgrade your server or use a compatible app version."
 msgstr ""
 
 #. js-lingui-id: y2nks/
@@ -9048,9 +9048,9 @@ msgstr ""
 msgid "Wednesday"
 msgstr ""
 
-#. js-lingui-id: TVkCrJ
+#. js-lingui-id: vOt+3i
 #: src/engine/core-modules/email-verification/services/email-verification.service.ts
-msgid "Welcome to Twenty: Please Confirm Your Email"
+msgid "Welcome to Cybernetics: Please Confirm Your Email"
 msgstr ""
 
 #. js-lingui-id: nCHI/F
@@ -9732,6 +9732,16 @@ msgstr ""
 msgid "Your billing subscription is corrupted. Please contact support."
 msgstr ""
 
+#. js-lingui-id: 0jeTK+
+#: src/engine/core-modules/billing/reminders/services/billing-reminder.service.ts
+msgid "Your Cybernetics plan renews soon"
+msgstr ""
+
+#. js-lingui-id: QeS9S8
+#: src/engine/core-modules/billing/reminders/services/billing-reminder.service.ts
+msgid "Your Cybernetics trial is ending soon"
+msgstr ""
+
 #. js-lingui-id: bTyBrW
 #: src/engine/core-modules/auth/services/auth.service.ts
 msgid "Your Password Has Been Successfully Changed"
@@ -9747,16 +9757,6 @@ msgstr ""
 #. js-lingui-id: vPccnr
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-company-standard-flat-field-metadata.util.ts
 msgid "Your team member responsible for managing the company account"
-msgstr ""
-
-#. js-lingui-id: sOfbGC
-#: src/engine/core-modules/billing/reminders/services/billing-reminder.service.ts
-msgid "Your Twenty plan renews soon"
-msgstr ""
-
-#. js-lingui-id: qW+K5e
-#: src/engine/core-modules/billing/reminders/services/billing-reminder.service.ts
-msgid "Your Twenty trial is ending soon"
 msgstr ""
 
 #. js-lingui-id: ej/tZF

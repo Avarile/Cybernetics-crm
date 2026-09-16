@@ -1,0 +1,40 @@
+tim@apple.dev comes from the dev seed data, not from a migration. The login form prefill and a number of tools, tests and docs also hardcode it.
+
+  Where the user is created
+
+  The user row is defined in packages/twenty-server/src/engine/workspace-manager/dev-seeder/core/utils/seed-users.util.ts:24, in seedUsers.
+  - It creates Tim Apple with id USER_DATA_SEED_IDS.TIM.
+  - The password tim@apple.dev is stored as a fixed bcrypt hash ($2b$10$3LwXj...).
+  - The other seeded users (Jony, Phil, Jane, Scott) use that same hash, so their password is also tim@apple.dev.
+
+  It runs through this chain:
+  1. npx nx database:reset twenty-server, whose default seed configuration is at packages/twenty-server/project.json:237.
+  2. That runs workspace:seed:dev, defined in src/database/commands/data-seed-dev-workspace.command.ts.
+  3. That calls dev-seeder/services/dev-seeder.service.ts, which calls seedUsers.
+
+  The same seeder also puts the email into the workspace data (all under dev-seeder/):
+  - data/constants/workspace-member-data-seeds.constant.ts:51
+  - data/constants/connected-account-data-seeds.constant.ts:51
+  - data/constants/message-participant-data-seeds.constant.ts:148
+  - core/utils/seed-metadata-entities.util.ts (lines 142, 216, 424)
+
+  Other places it's hardcoded
+
+  - Login prefill: packages/twenty-front/src/modules/auth/sign-in-up/hooks/useSignInUpForm.ts:67-68 fills in the email and password. It only does this when the server setting SIGN_IN_PREFILLED is on
+    (defined in twenty-server/src/engine/core-modules/twenty-config/config-variables.ts:76-84).
+  - SDK and app scaffolder:
+    - twenty-sdk/src/cli/commands/docker/index.ts:111
+    - twenty-sdk/src/cli/constants/dev-api-key.ts
+    - create-twenty-app/src/create-app.command.ts:568
+    - create-twenty-app/src/constants/template/SETUP.md
+  - Tests:
+    - twenty-server/test/integration/graphql/... (auth spec and the access token helper)
+    - twenty-e2e-testing/.env.example
+    - twenty-e2e-testing/lib/pom/loginPage.ts
+    - twenty-apps/examples/postcard/e2e/auth.setup.ts
+    - twenty-front/scripts/mock-data/utils.ts
+    - Frontend mock data and stories
+  - Docs: twenty-docs/**/local-setup.mdx and quick-start.mdx, including every translated copy.
+
+  To change the default user for the rebrand, start with seed-users.util.ts. If you also change the password, you'll need a new bcrypt hash. Then update the login prefill in useSignInUpForm.ts, the SDK
+  and scaffolder strings, and the test credentials so they all match.

@@ -63,7 +63,7 @@ const GENERATE_CALENDAR_CHANNEL_EVENT_ASSOCIATION_SEEDS =
       const CHANNEL_RAND = Math.random();
 
       if (CHANNEL_RAND < 0.3) {
-        // 30% - Tim's personal calendar
+        // 30% - Avarile's personal calendar
         CHANNEL_ID = CHANNEL_IDS[0]; // TIM
       } else if (CHANNEL_RAND < 0.45) {
         // 15% - Jony's personal calendar

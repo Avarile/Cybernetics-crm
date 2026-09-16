@@ -20,7 +20,7 @@ const MOCK_CONNECTED_ACCOUNT_ID = '20202020-9ac0-4390-9a1a-ab4d2c4e1bb7';
 const mockedConnectedAccounts = [
   {
     id: MOCK_CONNECTED_ACCOUNT_ID,
-    handle: 'tim@apple.dev',
+    handle: 'avarile@gmail.com',
     provider: 'google',
     authFailedAt: null,
     archivedAt: null,

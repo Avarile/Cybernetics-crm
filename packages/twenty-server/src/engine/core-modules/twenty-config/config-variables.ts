@@ -76,7 +76,7 @@ export class ConfigVariables {
   @ConfigVariablesMetadata({
     group: ConfigVariablesGroup.ADVANCED_SETTINGS,
     description:
-      'Prefills tim@apple.dev in the login form, used in local development for quicker sign-in',
+      'Prefills avarile@gmail.com in the login form, used in local development for quicker sign-in',
     type: ConfigVariableType.BOOLEAN,
   })
   @IsOptional()
@@ -434,7 +434,7 @@ export class ConfigVariables {
     description: 'Name used in the From header for outgoing emails',
     type: ConfigVariableType.STRING,
   })
-  EMAIL_FROM_NAME = 'Felix from Twenty';
+  EMAIL_FROM_NAME = 'Cybernetics';
 
   @ConfigVariablesMetadata({
     group: ConfigVariablesGroup.EMAIL_SETTINGS,
@@ -1876,7 +1876,7 @@ export class ConfigVariables {
 
   @ConfigVariablesMetadata({
     group: ConfigVariablesGroup.SERVER_CONFIG,
-    description: 'Twenty server version',
+    description: 'Cybernetics server version',
     type: ConfigVariableType.STRING,
     isEnvOnly: true,
     isHiddenInAdminPanel: true,

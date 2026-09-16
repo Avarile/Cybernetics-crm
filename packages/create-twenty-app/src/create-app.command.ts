@@ -565,7 +565,7 @@ export class CreateAppCommand {
         const configService = new ConfigService();
 
         await configService.setDefaultRemote('local');
-        this.logDetail('Authenticated as tim@apple.dev (development API key)');
+        this.logDetail('Authenticated as avarile@gmail.com (development API key)');
 
         return true;
       }

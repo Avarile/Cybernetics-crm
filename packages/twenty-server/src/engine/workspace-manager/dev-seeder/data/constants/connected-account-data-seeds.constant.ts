@@ -48,7 +48,7 @@ export const CONNECTED_ACCOUNT_DATA_SEEDS: ConnectedAccountDataSeed[] = [
     refreshToken: 'exampleRefreshToken',
     accessToken: 'exampleAccessToken',
     provider: 'google',
-    handle: 'tim@apple.dev',
+    handle: 'avarile@gmail.com',
   },
   {
     id: CONNECTED_ACCOUNT_DATA_SEED_IDS.JONY,

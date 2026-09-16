@@ -44,11 +44,11 @@ export const RANDOM_WORKSPACE_MEMBER_IDS = randomWorkspaceMemberIds;
 const originalWorkspaceMembers: WorkspaceMemberDataSeed[] = [
   {
     id: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    nameFirstName: 'Tim',
-    nameLastName: 'Apple',
+    nameFirstName: 'Avarile',
+    nameLastName: 'Wang',
     locale: 'en',
     colorScheme: 'Light',
-    userEmail: 'tim@apple.dev',
+    userEmail: 'avarile@gmail.com',
     userId: USER_DATA_SEED_IDS.TIM,
   },
   {

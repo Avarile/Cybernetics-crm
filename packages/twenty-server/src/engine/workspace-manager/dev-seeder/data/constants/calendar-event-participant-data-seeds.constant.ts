@@ -129,8 +129,8 @@ const CREATE_WORKSPACE_MEMBER_EVENT_PARTICIPANT = (
   switch (WORKSPACE_MEMBER_ID) {
     case WORKSPACE_MEMBER_DATA_SEED_IDS.TIM:
       return {
-        handle: 'tim@apple.com',
-        displayName: 'Tim Apple',
+        handle: 'avarile@gmail.com',
+        displayName: 'Avarile Wang',
         personId: null,
         workspaceMemberId: WORKSPACE_MEMBER_ID,
       };

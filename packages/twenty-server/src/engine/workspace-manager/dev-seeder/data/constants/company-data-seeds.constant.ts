@@ -645,7 +645,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/google',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -657,7 +657,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/microsoft',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -669,7 +669,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/meta',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -681,7 +681,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/slbglobal',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -693,7 +693,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/cisco',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -705,7 +705,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/uber-com',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -717,7 +717,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/salesforce',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -729,7 +729,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/amdocs',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -741,7 +741,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/vmware',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -753,7 +753,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/globallogic',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -765,7 +765,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/servicenow',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -778,7 +778,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/ss-c-technologies',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -790,7 +790,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/workday',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -802,7 +802,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/red-hat',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -814,7 +814,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/netsuite',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -826,7 +826,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/synopsys',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -838,7 +838,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/siemenssoftware',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -850,7 +850,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sas',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -862,7 +862,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/intuit',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -874,7 +874,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/broadcomsoftware',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -886,7 +886,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/autodesk',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -898,7 +898,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/epic1979',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -910,7 +910,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/boschusa',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -923,7 +923,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/cloudsoftwaregroup',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -935,7 +935,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/pitney-bowes',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -947,7 +947,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/juniper-networks',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -959,7 +959,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/chegg-inc-',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -971,7 +971,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/teradata',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -983,7 +983,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/nice-systems',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -996,7 +996,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/cadence-design-systems',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -1009,7 +1009,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/cox-automotive-inc-',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -1021,7 +1021,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/trimble',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -1033,7 +1033,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/24-7-ai',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -1046,7 +1046,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/akamai-technologies',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1058,7 +1058,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/splunk',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -1070,7 +1070,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/okta-inc-',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -1082,7 +1082,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ceridian',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -1094,7 +1094,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/realpage',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1106,7 +1106,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/pro-freelance',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -1118,7 +1118,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/stripe',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -1130,7 +1130,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shutterfly',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1142,7 +1142,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/unity',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1154,7 +1154,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/veeva-systems',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -1167,7 +1167,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/nuance-communications',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -1179,7 +1179,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/freshworks-inc',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1192,7 +1192,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/seal-software-group',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1204,7 +1204,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/docusign',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -1216,7 +1216,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/nutanix',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1228,7 +1228,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/genesys',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1240,7 +1240,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sapconcur',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -1252,7 +1252,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/joinsquare',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -1264,7 +1264,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/snap-inc-co',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -1276,7 +1276,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/the-mathworks_2',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -1288,7 +1288,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ptcinc',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -1300,7 +1300,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ansys-inc',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -1312,7 +1312,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aricent',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -1324,7 +1324,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/databricks',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1336,7 +1336,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shipt',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -1348,7 +1348,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/csg-',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1360,7 +1360,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/twilio-inc-',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1373,7 +1373,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/veritas-technologies-llc',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -1385,7 +1385,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/citrix',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1398,7 +1398,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/tyler-technologies',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -1410,7 +1410,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/esri',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -1422,7 +1422,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/paycom',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -1434,7 +1434,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/roblox',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1446,7 +1446,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/zendesk',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -1458,7 +1458,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/newfold',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1470,7 +1470,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/informatica',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1482,7 +1482,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/get-cafe',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -1494,7 +1494,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mavenir',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -1506,7 +1506,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/allscripts',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -1518,7 +1518,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/yardi',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -1530,7 +1530,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/datadog',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -1543,7 +1543,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/epicor-software-corp',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1556,7 +1556,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/hexagonassetlifecycleintelligence',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1568,7 +1568,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/blueyonder',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1580,7 +1580,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mongodbinc',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -1592,7 +1592,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/utest',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1604,7 +1604,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/paylocity',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1616,7 +1616,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/iac',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -1628,7 +1628,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/toast-inc',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1640,7 +1640,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/bentley-systems',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1652,7 +1652,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/profitboss',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -1664,7 +1664,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/eclinicalworks',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -1676,7 +1676,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/altimetrik',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -1688,7 +1688,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ca-technologies',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1700,7 +1700,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/dynatrace',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -1712,7 +1712,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sprinklr',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1724,7 +1724,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/uipath',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -1737,7 +1737,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/the-reynolds-and-reynolds-company',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1749,7 +1749,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/stealthstartup',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -1761,7 +1761,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/wexinc',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -1773,7 +1773,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/highradius',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -1785,7 +1785,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/avalara',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1798,7 +1798,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/manhattan-associates',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -1810,7 +1810,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aspen-technology',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1822,7 +1822,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/hyland-software',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -1835,7 +1835,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/palantir-technologies',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1848,7 +1848,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/market-america-inc-',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1861,7 +1861,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/procore-technologies',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -1873,7 +1873,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/zoominfo',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1885,7 +1885,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/tibco',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -1897,7 +1897,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ge-digital',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1909,7 +1909,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/rms',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1921,7 +1921,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/tableau-software',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -1933,7 +1933,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/extreme-networks',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -1945,7 +1945,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/smartsheet-com',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -1957,7 +1957,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/quest-software',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -1969,7 +1969,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/motive-inc',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -1981,7 +1981,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/retired-life',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -1993,7 +1993,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/dropbox',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -2005,7 +2005,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/deltek',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -2017,7 +2017,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/e2open',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2030,7 +2030,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/altair-engineering',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -2042,7 +2042,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/gopuff',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2054,7 +2054,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/fico',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2066,7 +2066,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/elastic-co',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -2078,7 +2078,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/blackbaud',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -2090,7 +2090,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/microstrategy',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2102,7 +2102,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/discord',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -2114,7 +2114,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/inovalon',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -2127,7 +2127,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/progress-software',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -2139,7 +2139,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/rubrik-inc',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -2151,7 +2151,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/axtria',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2163,7 +2163,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/audible',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -2175,7 +2175,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kaseya',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2187,7 +2187,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mri-software-llc',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2200,7 +2200,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/cyber-ark-software',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -2213,7 +2213,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/cornerstone-ondemand',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2225,7 +2225,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/reddit-com',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2237,7 +2237,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ivanti',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -2249,7 +2249,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/cloudera',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -2262,7 +2262,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/medidata-solutions',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -2274,7 +2274,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/commvault',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2286,7 +2286,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/connectwise',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2298,7 +2298,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/bill',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -2310,7 +2310,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/alteryx',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2322,7 +2322,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mnc-software',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -2334,7 +2334,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/celonis',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2346,7 +2346,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/attachmate',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2358,7 +2358,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/netscout',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2370,7 +2370,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/confluent',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2382,7 +2382,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/samsara',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2394,7 +2394,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/chetu-inc-',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -2406,7 +2406,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kronos',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -2418,7 +2418,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/qlik',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2430,7 +2430,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/vertafore',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2442,7 +2442,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/asana',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -2454,7 +2454,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/jamf-software',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -2466,7 +2466,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/paycor',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -2478,7 +2478,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/hudl',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -2490,7 +2490,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/preciselydata',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -2502,7 +2502,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/new-relic-inc-',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2514,7 +2514,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aptean',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -2526,7 +2526,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/o9solutions',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2538,7 +2538,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/spoton',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -2551,7 +2551,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/automation-anywhere',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2563,7 +2563,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/tekion',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2575,7 +2575,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aurora-inc.',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -2587,7 +2587,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/solarwinds',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -2599,7 +2599,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/goto',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -2611,7 +2611,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/pros',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -2623,7 +2623,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mirohq',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2635,7 +2635,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kofax',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -2647,7 +2647,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/accolitedigital',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2659,7 +2659,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/hashicorp',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -2671,7 +2671,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/pluralsight',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2684,7 +2684,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/bottomline-technologies',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -2696,7 +2696,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/anaplan',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -2708,7 +2708,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/onetrust',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2720,7 +2720,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/medallia-inc.',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2733,7 +2733,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/sailpoint-technologies',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -2746,7 +2746,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/appian-corporation',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -2758,7 +2758,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/dealertrack',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -2770,7 +2770,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/impactdotcom',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2782,7 +2782,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/inhabit-iq',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -2794,7 +2794,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/symphonyai',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -2807,7 +2807,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/ccc-intelligent-solutions',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2819,7 +2819,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/toshibacommerce',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -2831,7 +2831,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/vertex-inc.',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2843,7 +2843,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/prounlimited',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2855,7 +2855,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/five9',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2867,7 +2867,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/cohesity',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -2879,7 +2879,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/wind-river',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -2891,7 +2891,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/icertis',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2903,7 +2903,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/navan',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -2916,7 +2916,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/diligent-board-member-services',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -2928,7 +2928,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/applied-systems',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -2940,7 +2940,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/forcepoint',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -2952,7 +2952,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/compuware',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -2964,7 +2964,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/netsmart',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -2977,7 +2977,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/the-apache-software-foundation',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -2989,7 +2989,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aris-global',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -3002,7 +3002,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/working-by-my-self',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -3014,7 +3014,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/varonis',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -3026,7 +3026,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/fever-up',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3038,7 +3038,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/agilysys',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -3050,7 +3050,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/outsystems',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -3062,7 +3062,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/entratasoftware',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3074,7 +3074,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/verkada',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -3086,7 +3086,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/majesco',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3098,7 +3098,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/boomi-inc',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -3110,7 +3110,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/pdi-technologies',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3122,7 +3122,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/servicetitan',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -3134,7 +3134,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sitecore',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3146,7 +3146,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/successfactors',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -3158,7 +3158,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/postman-platform',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3170,7 +3170,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/scaleai',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -3183,7 +3183,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/duck-creek-technologies',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -3196,7 +3196,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/micros-systems-inc',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -3209,7 +3209,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/riverbed-technology',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -3221,7 +3221,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/fast-enterprises',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3233,7 +3233,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/alvaria-inc',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -3245,7 +3245,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/blackline',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3257,7 +3257,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/3pillar-global',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -3270,7 +3270,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/saama-technologies',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -3282,7 +3282,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ancestry.com',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -3295,7 +3295,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/outcomes-by-insightsoftware',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -3307,7 +3307,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ebix',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -3319,7 +3319,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/zuora',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3331,7 +3331,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/intelycare',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3343,7 +3343,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/axway',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -3355,7 +3355,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/communitybrands',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -3367,7 +3367,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/intersystems',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3380,7 +3380,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/mozilla-corporation',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -3392,7 +3392,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/semrush',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -3404,7 +3404,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/avid-technology',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3416,7 +3416,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/conga',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3428,7 +3428,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/infobeans',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -3440,7 +3440,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/appfolio-inc',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -3452,7 +3452,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sovos',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -3464,7 +3464,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ncino-inc-',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -3476,7 +3476,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/vistex',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3488,7 +3488,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/taboola',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -3500,7 +3500,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/evercommerce',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -3512,7 +3512,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/virgin-pulse',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -3524,7 +3524,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/houzz',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -3536,7 +3536,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/avidxchange-inc-',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3548,7 +3548,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/planview',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -3560,7 +3560,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/hackerrank',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3573,7 +3573,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/clearwateranalytics',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3585,7 +3585,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/outreach-saas',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -3597,7 +3597,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/everbridge',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3609,7 +3609,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/zycus',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3621,7 +3621,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/bullhorn',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -3633,7 +3633,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/liveperson',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -3645,7 +3645,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/relativityhq',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -3657,7 +3657,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/healthedge',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -3669,7 +3669,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/qad',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -3681,7 +3681,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/braze-',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -3693,7 +3693,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/exadel',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3705,7 +3705,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/phenomtxm',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -3717,7 +3717,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/bazaarvoice',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3729,7 +3729,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/appdynamics',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3742,7 +3742,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/mitchell-international',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -3754,7 +3754,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/talkdesk',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -3766,7 +3766,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/hsc',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -3778,7 +3778,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/avature',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3790,7 +3790,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/anyone-home-inc',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -3802,7 +3802,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/engineer.ai',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -3814,7 +3814,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/apptio',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -3826,7 +3826,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kms-technology',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -3838,7 +3838,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/jfrog-ltd',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -3850,7 +3850,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/asg',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3862,7 +3862,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/seismic',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3875,7 +3875,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/modernizing-medicine',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3887,7 +3887,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/acv-auctions',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3899,7 +3899,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/cerence',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -3911,7 +3911,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ridewithvia',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -3923,7 +3923,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kingsoft',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -3935,7 +3935,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/modeln',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3947,7 +3947,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/thoughtspot',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3960,7 +3960,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/employee-based-software',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3972,7 +3972,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/beyondtrust',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -3984,7 +3984,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/metricstream',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -3996,7 +3996,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/logmein',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -4008,7 +4008,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/khoros',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -4021,7 +4021,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/sprout-social-inc-',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -4033,7 +4033,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/odessa-inc-',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -4045,7 +4045,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/enverus-energy',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -4057,7 +4057,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/avepoint',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -4069,7 +4069,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/gong-io',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -4081,7 +4081,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/syncfusion',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -4093,7 +4093,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ping-identity',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -4105,7 +4105,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/wellsky',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -4117,7 +4117,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/tricentis',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -4129,7 +4129,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/taskrabbit',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -4141,7 +4141,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/synitidata',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -4153,7 +4153,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/bigcommerce',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -4165,7 +4165,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/oeconnection',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -4177,7 +4177,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/calsoft',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -4190,7 +4190,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/taller-technologies',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -4202,7 +4202,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/planet-labs',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -4214,7 +4214,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/6sense',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -4227,7 +4227,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/vitech-systems-group',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -4239,7 +4239,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/smarsh',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -4251,7 +4251,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/actimize',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -4263,7 +4263,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/dataiku',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -4275,7 +4275,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/liferay-inc-',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -4287,7 +4287,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/gainsight',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -4299,7 +4299,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/infotech-inc',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -4311,7 +4311,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/jaggaer',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -4323,7 +4323,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/checkr-com',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -4335,7 +4335,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/carfax',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -4347,7 +4347,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/lucidsoftware',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -4359,7 +4359,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/domotalk',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -4371,7 +4371,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/podium',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -4383,7 +4383,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mendix',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -4395,7 +4395,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/edbpostgres',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -4408,7 +4408,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/onestream-software',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -4420,7 +4420,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/rentsolutions',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -4432,7 +4432,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/waystar',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -4444,7 +4444,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/2020spaces',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -4456,7 +4456,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/isolved',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -4468,7 +4468,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/atg',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -4480,7 +4480,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/cast',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -4492,7 +4492,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/oclc',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -4504,7 +4504,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mediaocean',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -4516,7 +4516,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/bandwidth-inc',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -4529,7 +4529,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/hexagon-geospatial',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -4541,7 +4541,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/wishshopping',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -4554,7 +4554,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/sagitec-solutions',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -4566,7 +4566,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/zinniatm',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -4578,7 +4578,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/curemd',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -4590,7 +4590,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/druva',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -4603,7 +4603,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/restaurant365-cloud-erp-for-restaurants',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -4615,7 +4615,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/lawson-software',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -4627,7 +4627,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/alphasense',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -4640,7 +4640,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/eci-software--solutions',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -4652,7 +4652,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/wrike',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -4664,7 +4664,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/syndigo',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -4676,7 +4676,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/gigamon',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -4688,7 +4688,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/fastly',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -4700,7 +4700,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/cantaloupeinc',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -4713,7 +4713,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/eagleview-technologies-inc',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -4726,7 +4726,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/literamicrosystems',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -4738,7 +4738,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/collibra',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -4751,7 +4751,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/picsart-photo-studio',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -4763,7 +4763,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/calamp-corp',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -4775,7 +4775,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ess',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -4787,7 +4787,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/grafana-labs',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -4799,7 +4799,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/fivetran',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -4811,7 +4811,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/centralsqtech',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -4823,7 +4823,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/stubhub',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -4835,7 +4835,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/eisgroupltd',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -4847,7 +4847,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/tebra',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -4859,7 +4859,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/benefitfocus',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -4871,7 +4871,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/nisc',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -4883,7 +4883,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/dell-compellent',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -4895,7 +4895,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/radancy',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -4907,7 +4907,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/granicusinc',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -4920,7 +4920,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/the-active-network',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -4932,7 +4932,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/acquia',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -4944,7 +4944,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/walkme',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -4956,7 +4956,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/outbrain',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -4968,7 +4968,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/willowtreeapps',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -4980,7 +4980,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/logicmonitor',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -4992,7 +4992,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/jellysmack',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -5004,7 +5004,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/henry-schein-one',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -5016,7 +5016,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/prometheusgroup',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5028,7 +5028,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/atlashxm',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -5040,7 +5040,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/dialpad',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5052,7 +5052,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/accruent',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5065,7 +5065,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/charles-river-development',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -5077,7 +5077,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/flexera',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5090,7 +5090,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/quotient-technology',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5102,7 +5102,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sageintacct',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -5114,7 +5114,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/plaid-',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -5126,7 +5126,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/c3-ai',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -5138,7 +5138,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/upland-software',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -5150,7 +5150,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/zapier',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5162,7 +5162,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/wso2',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5174,7 +5174,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/auctane',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -5186,7 +5186,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/salesloft',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -5198,7 +5198,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/rldatix',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5211,7 +5211,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/blue-prism-limited',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -5223,7 +5223,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/waitr-inc-',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5236,7 +5236,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/software-engineering-institute',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -5249,7 +5249,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/downey-unified-school-district',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5262,7 +5262,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/private-access-inc.',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5274,7 +5274,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/imanage',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -5286,7 +5286,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/qasource',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -5298,7 +5298,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/azuga-inc-',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -5311,7 +5311,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/talent-systems-llc',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5323,7 +5323,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/datasiteglobal',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5335,7 +5335,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/avasoft',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -5347,7 +5347,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/datarobot',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -5359,7 +5359,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/technisys',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -5371,7 +5371,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/project-44',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5383,7 +5383,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/imprivata',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -5395,7 +5395,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/webflow-inc-',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -5407,7 +5407,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/blend-',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -5419,7 +5419,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/egnyte',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5431,7 +5431,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ezesoftware',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -5443,7 +5443,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/tipalti',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5455,7 +5455,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/altium',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5467,7 +5467,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/airslate',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5479,7 +5479,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/arbisoft',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -5491,7 +5491,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/airtable',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5503,7 +5503,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/birdeye',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5516,7 +5516,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/ultimate-software',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5529,7 +5529,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/homecare-homebase',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -5541,7 +5541,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/cs-disco-llc',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -5553,7 +5553,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/highspot',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5566,7 +5566,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/sagent-lending-technologies',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5578,7 +5578,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/apolloio',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -5590,7 +5590,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/pas',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5603,7 +5603,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/wikimedia-foundation',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5615,7 +5615,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/nintex',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -5627,7 +5627,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ruckus-networks',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -5639,7 +5639,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/forgerock',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -5652,7 +5652,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/trading-technologies',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -5664,7 +5664,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kanini',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -5676,7 +5676,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/dealer-com',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -5688,7 +5688,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/wbem-solutions',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -5700,7 +5700,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kyriba',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -5712,7 +5712,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/demandbase',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -5724,7 +5724,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sumo-logic',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -5736,7 +5736,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/edifecs',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5749,7 +5749,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/information-builders',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -5761,7 +5761,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/emburse',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -5773,7 +5773,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/constructconnect',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -5785,7 +5785,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/perforce',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5797,7 +5797,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/insurity',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5809,7 +5809,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/webos',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5821,7 +5821,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/zenoti',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -5833,7 +5833,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/intapp',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -5845,7 +5845,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/oati',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5858,7 +5858,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/frontline-education',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -5870,7 +5870,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aspect-software',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -5882,7 +5882,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/gogreyorange',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -5894,7 +5894,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sirionlabs',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5906,7 +5906,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/in-time-tec',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5918,7 +5918,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/operative',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -5930,7 +5930,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kore-inc',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -5942,7 +5942,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/redisinc',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -5954,7 +5954,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/addepar',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -5966,7 +5966,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/tcpsoftware',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -5978,7 +5978,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/tracelink',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -5990,7 +5990,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/benchling',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -6002,7 +6002,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/housecallpro',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -6014,7 +6014,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/turnitin',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -6026,7 +6026,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/schr-dinger',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6039,7 +6039,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/egain-corporation',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -6051,7 +6051,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/brightlysoftware',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6064,7 +6064,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/snap-on-business-solutions',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -6076,7 +6076,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/acs-technologies',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6088,7 +6088,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/uniphore',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6100,7 +6100,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/folio3',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -6112,7 +6112,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mhcautomation',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6125,7 +6125,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/xactly-corporation',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -6137,7 +6137,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/getweave',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6149,7 +6149,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/microworkers.com',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6161,7 +6161,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/trilogy',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6173,7 +6173,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/akvelon',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -6185,7 +6185,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ipipeline',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6197,7 +6197,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/salarydotcom',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -6209,7 +6209,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/pandadoc',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -6221,7 +6221,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/msc-software',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -6233,7 +6233,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/harnessinc',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -6246,7 +6246,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/activecampaign-inc-',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -6258,7 +6258,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/doximity',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6270,7 +6270,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/couchbase',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6282,7 +6282,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/lytxinc',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -6294,7 +6294,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/pendo-io',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -6306,7 +6306,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/workato',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6318,7 +6318,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/saviynt',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6330,7 +6330,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/smartbear',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -6342,7 +6342,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/rovi',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6354,7 +6354,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/team-handshake',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -6366,7 +6366,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/navitaire',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -6378,7 +6378,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/onespan',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -6390,7 +6390,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/bitsight',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6402,7 +6402,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/id.me',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -6415,7 +6415,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/symphonyretailcpg',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6427,7 +6427,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/unilog-inc',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -6439,7 +6439,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/teletrac',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6451,7 +6451,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/buildertrend',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6463,7 +6463,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/tecsys-inc',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -6475,7 +6475,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/thousandeyes',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6487,7 +6487,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/greenhouse-inc-',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -6499,7 +6499,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/exiger',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -6511,7 +6511,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mbo-partners',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6523,7 +6523,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/neo4j',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -6535,7 +6535,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/we-are-vts',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6547,7 +6547,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/slice',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -6560,7 +6560,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/amplitude-analytics',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -6572,7 +6572,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/daxko',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -6584,7 +6584,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/applovin',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -6596,7 +6596,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/xometry',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6608,7 +6608,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/quickbase',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6620,7 +6620,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/agora-lab-inc',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6632,7 +6632,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/weareinmoment',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -6644,7 +6644,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/patientpoint',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -6656,7 +6656,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/hhaexchange',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6668,7 +6668,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ninjaone',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6680,7 +6680,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/zywave',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6693,7 +6693,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/adobemarketoengage',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6705,7 +6705,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mastercontrol',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -6718,7 +6718,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/jumio-corporation',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -6730,7 +6730,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/crmnext',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6742,7 +6742,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/channeladvisor',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -6754,7 +6754,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sumtotal-systems',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -6766,7 +6766,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/payscale',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6778,7 +6778,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/riskonnect-inc',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6790,7 +6790,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/riskified',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -6802,7 +6802,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/shopkeeperapp',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6814,7 +6814,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/stack-overflow',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6827,7 +6827,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/netwrix-corporation',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -6839,7 +6839,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/securonix',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -6851,7 +6851,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/draupplatform',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -6863,7 +6863,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/eq-technologic',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6875,7 +6875,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mindtickle',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -6887,7 +6887,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/omnitracs',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -6899,7 +6899,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/programmer',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -6911,7 +6911,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/navis',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -6923,7 +6923,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/auditboard',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -6935,7 +6935,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/algolia',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -6947,7 +6947,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ymlco',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -6959,7 +6959,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/bolt-com',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -6971,7 +6971,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/dandyofficial',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -6983,7 +6983,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/diverselynx',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -6995,7 +6995,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/jmp',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -7007,7 +7007,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/on24',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -7019,7 +7019,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/labvantage',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -7031,7 +7031,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/exabeam',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -7043,7 +7043,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/iterable',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -7055,7 +7055,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/clari',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -7067,7 +7067,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/komodo-health',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -7079,7 +7079,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/alation',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -7091,7 +7091,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/celigo-inc',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -7103,7 +7103,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aptos-retail',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -7116,7 +7116,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/workforce-software',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -7129,7 +7129,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/hpe-security-data-security',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -7141,7 +7141,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ddn-storage',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -7153,7 +7153,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/kpa-llc',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -7165,7 +7165,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/lohika',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -7177,7 +7177,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/qualifacts',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -7189,7 +7189,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/centric-software',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -7201,7 +7201,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/omdena',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -7213,7 +7213,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/accountantsworld',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -7225,7 +7225,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aderant',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -7238,7 +7238,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/python-software-foundation',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -7250,7 +7250,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/opengov-inc',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -7263,7 +7263,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/denodo-technologies',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -7275,7 +7275,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/neogov',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -7287,7 +7287,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/vertex-one',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -7300,7 +7300,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/the-linux-foundation',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -7312,7 +7312,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/reputation-com',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -7324,7 +7324,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/relevantz',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -7337,7 +7337,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/m-files-corporation',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -7349,7 +7349,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/homebase-app',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -7362,7 +7362,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/calypso-technology',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -7375,7 +7375,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/viewpoint-construction-software',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -7387,7 +7387,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/devoinc',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -7399,7 +7399,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/webpt',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -7411,7 +7411,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/matrixcare',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -7423,7 +7423,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/sisense',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -7435,7 +7435,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/calendly',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -7447,7 +7447,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/placer',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -7459,7 +7459,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mresult',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -7472,7 +7472,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/coherent-solutions',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -7484,7 +7484,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mirantis',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -7497,7 +7497,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/simplifyhealthcare',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -7509,7 +7509,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/jumpcloud',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -7521,7 +7521,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/asap',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -7533,7 +7533,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/xoxoday',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -7545,7 +7545,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/datastax',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -7557,7 +7557,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/foursquare',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -7569,7 +7569,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/lastpass',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -7581,7 +7581,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/soci-inc-',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -7594,7 +7594,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/stratus-technologies',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -7606,7 +7606,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/advancedmd',
     createdBySource: 'CALENDAR',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -7618,7 +7618,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/matterport',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -7631,7 +7631,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/sra-samsungreasearchamerica',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -7643,7 +7643,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/creatioglobal',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -7655,7 +7655,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/branch-metrics',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -7667,7 +7667,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/versa-networks',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -7679,7 +7679,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/miteksystems',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -7691,7 +7691,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/pdf-solutions',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -7703,7 +7703,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/eso-solutions',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -7715,7 +7715,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/mural.co',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -7727,7 +7727,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/fourkites-inc',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -7739,7 +7739,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/aras-corporation',
     createdBySource: 'WEBHOOK',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -7751,7 +7751,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/delphix',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -7763,7 +7763,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/wolfram-research',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -7775,7 +7775,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/eightfoldai',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -7787,7 +7787,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/quark',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -7799,7 +7799,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/connectrn',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -7812,7 +7812,7 @@ const COMPANY_DATA_SEEDS_RAW = [
       'https://linkedin.com/company/revenue-solutions-inc-',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -7824,7 +7824,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/macrosoft',
     createdBySource: 'SYSTEM',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -7836,7 +7836,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/paradoxolivia',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -7848,7 +7848,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/smartrecruiters',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -7860,7 +7860,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/tealium',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -7872,7 +7872,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/securitiai',
     createdBySource: 'MANUAL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -7884,7 +7884,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/lattice-hq',
     createdBySource: 'EMAIL',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.PHIL,
   },
 
@@ -7896,7 +7896,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/tusimple',
     createdBySource: 'IMPORT',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
   },
 
@@ -7908,7 +7908,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/ceipal',
     createdBySource: 'WORKFLOW',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 
@@ -7920,7 +7920,7 @@ const COMPANY_DATA_SEEDS_RAW = [
     linkedinLinkPrimaryLinkUrl: 'https://linkedin.com/company/rsd',
     createdBySource: 'API',
     createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-    createdByName: 'Tim A',
+    createdByName: 'Avarile W',
     accountOwnerId: WORKSPACE_MEMBER_DATA_SEED_IDS.JONY,
   },
 ];

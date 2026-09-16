@@ -66,7 +66,7 @@ const GENERATE_MESSAGE_CHANNEL_MESSAGE_ASSOCIATION_SEEDS =
       const CHANNEL_WEIGHT = Math.random();
       let CHANNEL_ID: string;
 
-      // Tim's email (40% weight)
+      // Avarile's email (40% weight)
       if (CHANNEL_WEIGHT < 0.4) {
         CHANNEL_ID = MESSAGE_CHANNEL_DATA_SEED_IDS.TIM;
       }

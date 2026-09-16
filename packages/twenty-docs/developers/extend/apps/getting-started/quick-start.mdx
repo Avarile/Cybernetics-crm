@@ -38,9 +38,9 @@ The scaffolder is non-interactive: the directory name becomes the app name. Pass
 
 Your app needs a Twenty server to sync into. The server is a full Twenty instance — UI, GraphQL API, PostgreSQL — running locally in Docker. Your local code uploads its definitions to that server, which makes them appear in the UI.
 
-The scaffolder starts one for you: with Docker running, it pulls the `twentycrm/twenty-app-dev` image, starts it on port `2020`, and authenticates the CLI against the pre-seeded demo workspace (`tim@apple.dev`) — no sign-in required.
+The scaffolder starts one for you: with Docker running, it pulls the `twentycrm/twenty-app-dev` image, starts it on port `2020`, and authenticates the CLI against the pre-seeded demo workspace (`avarile@gmail.com`) — no sign-in required.
 
-To connect to an existing Twenty server instead, pass `--url <your-server-url>`. Remote servers authenticate with OAuth: a browser opens so you can sign in and click **Authorize**, which gives the CLI access to your workspace. (You can also opt into OAuth locally with `--authentication-method oauth` — sign in with `tim@apple.dev` / `tim@apple.dev`.)
+To connect to an existing Twenty server instead, pass `--url <your-server-url>`. Remote servers authenticate with OAuth: a browser opens so you can sign in and click **Authorize**, which gives the CLI access to your workspace. (You can also opt into OAuth locally with `--authentication-method oauth` — sign in with `avarile@gmail.com` / `Avarile19840123!`.)
 
 <div style={{textAlign: 'center'}}>
   <img src="/images/docs/developers/extends/apps/login.png" alt="Twenty login screen" />

@@ -1243,6 +1243,11 @@ msgstr "Adăugați endpointuri personalizate, gateway-uri private sau regiuni su
 msgid "Add Custom Provider"
 msgstr "Adaugă furnizor personalizat"
 
+#. js-lingui-id: Iozz8I
+#: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
+msgid "Add Cybernetics as a Streamable HTTP extension in Goose."
+msgstr "Adăugați Cybernetics ca extensie Streamable HTTP în Goose."
+
 #. js-lingui-id: WT0Ie4
 #: src/modules/settings/workspace/components/SettingsWorkspaceEmailGroupSection.tsx
 msgid "Add email channel"
@@ -1447,35 +1452,35 @@ msgstr "Adăugați sarcină"
 msgid "Add test input for evaluation (e.g., \"Find all customers in NY\")"
 msgstr ""
 
-#. js-lingui-id: FKGcEL
+#. js-lingui-id: jwb+yY
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server as a remote context server in Zed."
-msgstr "Adăugați serverul Twenty MCP ca server de context la distanță în Zed."
+msgid "Add the Cybernetics MCP server as a remote context server in Zed."
+msgstr "Adăugați serverul Cybernetics MCP ca server de context la distanță în Zed."
 
-#. js-lingui-id: iA2nHX
+#. js-lingui-id: 7GHHpi
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server from Augment Code settings."
-msgstr "Adăugați serverul Twenty MCP din setările Augment Code."
+msgid "Add the Cybernetics MCP server from Augment Code settings."
+msgstr "Adăugați serverul Cybernetics MCP din setările Augment Code."
 
-#. js-lingui-id: l+NzAk
+#. js-lingui-id: FhbteD
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server from Raycast's MCP commands or settings."
-msgstr "Adăugați serverul Twenty MCP din comenzile sau setările MCP ale Raycast."
+msgid "Add the Cybernetics MCP server from Raycast's MCP commands or settings."
+msgstr "Adăugați serverul Cybernetics MCP din comenzile sau setările MCP ale Raycast."
 
-#. js-lingui-id: j6G/yI
+#. js-lingui-id: GJv3aK
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server in Gemini CLI settings."
-msgstr "Adăugați serverul Twenty MCP în setările Gemini CLI."
+msgid "Add the Cybernetics MCP server in Gemini CLI settings."
+msgstr "Adăugați serverul Cybernetics MCP în setările Gemini CLI."
 
-#. js-lingui-id: /OyhlM
+#. js-lingui-id: N2l5i6
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server to your LibreChat configuration file."
-msgstr "Adăugați serverul Twenty MCP în fișierul dvs. de configurare LibreChat."
+msgid "Add the Cybernetics MCP server to your LibreChat configuration file."
+msgstr "Adăugați serverul Cybernetics MCP în fișierul dvs. de configurare LibreChat."
 
-#. js-lingui-id: K0DXoj
+#. js-lingui-id: +JaetT
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty remote server with LM Studio's install link."
-msgstr "Adăugați serverul Twenty la distanță cu linkul de instalare al LM Studio."
+msgid "Add the Cybernetics remote server with LM Studio's install link."
+msgstr "Adăugați serverul Cybernetics la distanță cu linkul de instalare al LM Studio."
 
 #. js-lingui-id: 5+ttxv
 #: src/modules/settings/accounts/components/SettingsAccountsBlocklistInput.tsx
@@ -1491,11 +1496,6 @@ msgstr "Adaugă la favorite"
 #: src/modules/settings/unsubscribe-topics/components/SettingsWorkspaceUnsubscribeTopicSection.tsx
 msgid "Add topic"
 msgstr "Adăugați subiect"
-
-#. js-lingui-id: 4D/zWv
-#: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add Twenty as a Streamable HTTP extension in Goose."
-msgstr "Adăugați Twenty ca extensie Streamable HTTP în Goose."
 
 #. js-lingui-id: XnwceV
 #: src/pages/settings/applications/components/SettingsApplicationRegistrationRedirectURIsInput.tsx
@@ -3092,10 +3092,10 @@ msgstr "Interval de facturare"
 msgid "Billing period"
 msgstr "Perioadă de facturare"
 
-#. js-lingui-id: xF/NXI
+#. js-lingui-id: n1unWt
 #: src/modules/settings/billing/hooks/useBillingPortalSession.ts
-msgid "Billing portal session error. Please retry or contact Twenty team"
-msgstr "Eroare de sesiune în portalul de facturare. Te rog să încerci din nou sau contactează echipa Twenty"
+msgid "Billing portal session error. Please retry or contact Cybernetics team"
+msgstr "Eroare de sesiune în portalul de facturare. Te rog să încerci din nou sau contactează echipa Cybernetics"
 
 #. js-lingui-id: K1172m
 #: src/modules/settings/accounts/components/SettingsAccountsBlocklistSection.tsx
@@ -3219,10 +3219,10 @@ msgstr "Livrat împreună cu {applicationName}"
 msgid "by {author}"
 msgstr "de {author}"
 
-#. js-lingui-id: 8Pfllj
+#. js-lingui-id: EQCXxU
 #: src/modules/auth/sign-in-up/components/FooterNote.tsx
-msgid "By using Twenty, you agree to the"
-msgstr "Folosind Twenty, sunteți de acord cu"
+msgid "By using Cybernetics, you agree to the"
+msgstr "Folosind Cybernetics, sunteți de acord cu"
 
 #. js-lingui-id: Yx41df
 #: src/modules/auth/sign-in-up/components/FooterNote.tsx
@@ -3665,11 +3665,11 @@ msgstr "Verifică-ți e-mailurile"
 msgid "Check your inbox to verify your new email address."
 msgstr "Verificați-vă căsuța de e-mail pentru a confirma noua adresă de e-mail."
 
-#. js-lingui-id: SxwQE8
+#. js-lingui-id: 1pfVfF
 #: src/modules/settings/billing/hooks/useHandleCheckoutSession.ts
 #: src/modules/settings/billing/hooks/useHandleCheckoutSession.ts
-msgid "Checkout session error. Please retry or contact Twenty team"
-msgstr "Eroare de sesiune de checkout. Te rog să încerci din nou sau contactează echipa Twenty"
+msgid "Checkout session error. Please retry or contact Cybernetics team"
+msgstr "Eroare de sesiune de checkout. Te rog să încerci din nou sau contactează echipa Cybernetics"
 
 #. js-lingui-id: SviKkE
 #: src/pages/settings/profile/appearance/components/LocalePicker.tsx
@@ -4229,6 +4229,16 @@ msgstr "Configurați setările IMAP pentru a primi și sincroniza emailurile."
 msgid "Configure SMTP settings to send emails from your account."
 msgstr "Configurează setările SMTP pentru a trimite e-mailuri de pe contul tău."
 
+#. js-lingui-id: DBgJaW
+#: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
+msgid "Configure the Cybernetics MCP server manually in Cascade."
+msgstr "Configurați manual serverul Cybernetics MCP în Cascade."
+
+#. js-lingui-id: l1KqAs
+#: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
+msgid "Configure the Cybernetics MCP server manually in Cline."
+msgstr "Configurați manual serverul Cybernetics MCP în Cline."
+
 #. js-lingui-id: TiCmQz
 #: src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx
 msgid "Configure the default AI models for all workspaces"
@@ -4243,16 +4253,6 @@ msgstr "Configurați serverul MCP la distanță prin setările agentului Warp."
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
 msgid "Configure the remote server in Amazon Q Developer's MCP settings."
 msgstr "Configurați serverul la distanță în setările MCP ale Amazon Q Developer."
-
-#. js-lingui-id: g1/8jH
-#: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Configure the Twenty MCP server manually in Cascade."
-msgstr "Configurați manual serverul Twenty MCP în Cascade."
-
-#. js-lingui-id: XiyvRh
-#: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Configure the Twenty MCP server manually in Cline."
-msgstr "Configurați manual serverul Twenty MCP în Cline."
 
 #. js-lingui-id: qA9AGQ
 #: src/modules/settings/domains/components/SettingsDomainRecords.tsx
@@ -5405,6 +5405,11 @@ msgstr "Personalizează securitatea spațiului tău de lucru"
 #: src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx
 msgid "Cyan"
 msgstr "Cian"
+
+#. js-lingui-id: 21vtx5
+#: src/modules/spreadsheet-import/steps/components/MatchColumnsStep/components/ColumnGrid.tsx
+msgid "Cybernetics fields"
+msgstr "Câmpuri Cybernetics"
 
 #. js-lingui-id: w9VTXG
 #: src/pages/settings/profile/appearance/components/LocalePicker.tsx
@@ -7497,10 +7502,10 @@ msgstr "Eroare la anularea schimbării intervalului."
 msgid "Error while cancelling plan switching."
 msgstr "Eroare la anularea schimbării planului."
 
-#. js-lingui-id: QmR+2U
+#. js-lingui-id: bxs5IG
 #: src/modules/settings/billing/hooks/useEndSubscriptionTrialPeriod.ts
-msgid "Error while ending trial period. Please contact Twenty team."
-msgstr "Eroare la terminarea perioadei de probă. Vă rugăm contactaţi echipa Twenty."
+msgid "Error while ending trial period. Please contact Cybernetics team."
+msgstr "Eroare la terminarea perioadei de probă. Vă rugăm contactaţi echipa Cybernetics."
 
 #. js-lingui-id: 5g78zo
 #: src/pages/settings/members/SettingsWorkspaceMember.tsx
@@ -9139,10 +9144,10 @@ msgstr "Ascundeți eticheta"
 msgid "Hide system indexes"
 msgstr "Ascunde indexurile de sistem"
 
-#. js-lingui-id: 1ETc0T
+#. js-lingui-id: 6bMo1p
 #: src/pages/settings/community/SettingsCommunity.tsx
-msgid "Hire a partner to help you implement and customize Twenty."
-msgstr "Angajați un partener care să vă ajute să implementați și să personalizați Twenty."
+msgid "Hire a partner to help you implement and customize Cybernetics."
+msgstr "Angajați un partener care să vă ajute să implementați și să personalizați Cybernetics."
 
 #. js-lingui-id: i0qMbr
 #: src/modules/navigation/components/MainNavigationDrawerTabsRow.tsx
@@ -13138,10 +13143,10 @@ msgstr "Pachete de Introducere"
 msgid "One or more filters reference deactivated or deleted fields and will be automatically removed on save."
 msgstr "Unul sau mai multe filtre fac referire la câmpuri dezactivate sau șterse și vor fi eliminate automat la salvare."
 
-#. js-lingui-id: 2l4SGU
+#. js-lingui-id: Ai5Zo/
 #: src/pages/settings/enterprise/SettingsEnterprise.tsx
-msgid "One subscription provides one enterprise key that powers one production instance and one potential staging or test instance. To run a staging or test environment, install Twenty on a second server, activate it with this same enterprise key, then register that server as a development instance. Development instances unlock enterprise features without extra billing and do not count toward your production seats."
-msgstr "Un abonament oferă o singură cheie enterprise, care alimentează o instanță de producție și o posibilă instanță de staging sau test. Pentru a rula un mediu de staging sau test, instalați Twenty pe un al doilea server, activați-l cu aceeași cheie enterprise, apoi înregistrați acel server ca instanță de dezvoltare. Instanțele de dezvoltare deblochează funcțiile enterprise fără costuri suplimentare de facturare și nu sunt luate în calcul la locurile din producție."
+msgid "One subscription provides one enterprise key that powers one production instance and one potential staging or test instance. To run a staging or test environment, install Cybernetics on a second server, activate it with this same enterprise key, then register that server as a development instance. Development instances unlock enterprise features without extra billing and do not count toward your production seats."
+msgstr "Un abonament oferă o singură cheie enterprise, care alimentează o instanță de producție și o posibilă instanță de staging sau test. Pentru a rula un mediu de staging sau test, instalați Cybernetics pe un al doilea server, activați-l cu aceeași cheie enterprise, apoi înregistrați acel server ca instanță de dezvoltare. Instanțele de dezvoltare deblochează funcțiile enterprise fără costuri suplimentare de facturare și nu sunt luate în calcul la locurile din producție."
 
 #. js-lingui-id: oFTo3P
 #: src/modules/settings/event-logs/components/SettingsLogs.tsx
@@ -13220,15 +13225,20 @@ msgstr "Deschideți o integrare menținută sau precompletați clienți care acc
 msgid "Open as link"
 msgstr "Deschide ca link"
 
-#. js-lingui-id: n0vVgf
+#. js-lingui-id: dV7hgx
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Open Claude with the Twenty connector name and MCP URL prefilled."
-msgstr "Deschideți Claude cu numele conectorului Twenty și URL-ul MCP precompletate."
+msgid "Open Claude with the Cybernetics connector name and MCP URL prefilled."
+msgstr "Deschideți Claude cu numele conectorului Cybernetics și URL-ul MCP precompletate."
 
-#. js-lingui-id: +n2jpB
+#. js-lingui-id: 8qthdQ
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Open Cursor's MCP installer with the Twenty remote server config."
-msgstr "Deschideți programul de instalare MCP al Cursor cu configurația serverului Twenty la distanță."
+msgid "Open Cursor's MCP installer with the Cybernetics remote server config."
+msgstr "Deschideți programul de instalare MCP al Cursor cu configurația serverului Cybernetics la distanță."
+
+#. js-lingui-id: zuFf2w
+#: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
+msgid "Open Cybernetics's official ChatGPT integration for your workspace."
+msgstr "Deschideți integrarea oficială Cybernetics cu ChatGPT pentru spațiul dvs. de lucru."
 
 #. js-lingui-id: pZZH4Q
 #: src/modules/auth/sign-in-up/components/EmailVerificationSent.tsx
@@ -13261,15 +13271,10 @@ msgstr "Deschide Outlook"
 msgid "Open records in"
 msgstr "Deschide înregistrările în"
 
-#. js-lingui-id: q170S2
+#. js-lingui-id: A3gF2A
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Open Replit with the Twenty remote server config."
-msgstr "Deschideți Replit cu configurația serverului Twenty la distanță."
-
-#. js-lingui-id: sBd/cl
-#: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Open Twenty's official ChatGPT integration for your workspace."
-msgstr "Deschideți integrarea oficială Twenty cu ChatGPT pentru spațiul dvs. de lucru."
+msgid "Open Replit with the Cybernetics remote server config."
+msgstr "Deschideți Replit cu configurația serverului Cybernetics la distanță."
 
 #. js-lingui-id: OV5wZZ
 #: src/modules/navigation-menu-item/display/sections/components/NavigationDrawerOpenedSection.tsx
@@ -13535,10 +13540,10 @@ msgstr "Layouturi de pagină"
 msgid "Page name"
 msgstr "Numele paginii"
 
-#. js-lingui-id: NRvxzv
+#. js-lingui-id: 3t/O0z
 #: src/pages/not-found/NotFound.tsx
-msgid "Page Not Found | Twenty"
-msgstr "Pagina nu a fost găsită | Twenty"
+msgid "Page Not Found | Cybernetics"
+msgstr "Pagina nu a fost găsită | Cybernetics"
 
 #. js-lingui-id: sF+Xp9
 #: src/modules/settings/event-logs/components/EventLogTableSelector.tsx
@@ -17018,13 +17023,13 @@ msgstr "Abonament"
 msgid "Subscription activated."
 msgstr "Abonament activat."
 
-#. js-lingui-id: 0okvpx
+#. js-lingui-id: s/VHui
 #: src/modules/settings/billing/components/AddPaymentMethodForm.tsx
 #: src/modules/settings/billing/components/AddPaymentMethodForm.tsx
 #: src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts
 #: src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts
-msgid "Subscription error. Please retry or contact Twenty team"
-msgstr "Eroare de abonament. Te rog să încerci din nou sau contactează echipa Twenty"
+msgid "Subscription error. Please retry or contact Cybernetics team"
+msgstr "Eroare de abonament. Te rog să încerci din nou sau contactează echipa Cybernetics"
 
 #. js-lingui-id: FooJUj
 #. placeholder {0}: getTargetPlanLabel(targetPlanKey)
@@ -17387,14 +17392,14 @@ msgstr "Endpointul API pentru furnizorul dvs. compatibil cu OpenAI"
 msgid "The AWS region for Bedrock"
 msgstr "Regiunea AWS pentru Bedrock"
 
-#. js-lingui-id: HP7per
+#. js-lingui-id: 0RXlBG
 #: src/pages/settings/applications/utils/getStandardApplicationDescription.ts
 msgid ""
-"The base data model every Twenty workspace runs on.\n"
+"The base data model every Cybernetics workspace runs on.\n"
 "\n"
 "#### What \"foundation\" means\n"
 "\n"
-"Every Twenty workspace starts with this set of objects. They define the shape of your CRM, including relationships, activity, and reporting. Everything else, including marketplace apps, AI agents, and custom objects, plugs into them.\n"
+"Every Cybernetics workspace starts with this set of objects. They define the shape of your CRM, including relationships, activity, and reporting. Everything else, including marketplace apps, AI agents, and custom objects, plugs into them.\n"
 "\n"
 "#### Included objects\n"
 "- **People & Companies**: contact and account records\n"
@@ -17402,11 +17407,11 @@ msgid ""
 "- **Notes & Tasks**: activity and follow-ups\n"
 "- **Workflows & Dashboards**: automation and reporting\n"
 "\n"
-"Remove this app and the rest of Twenty has nothing to hang off.\n"
+"Remove this app and the rest of Cybernetics has nothing to hang off.\n"
 "\n"
 "#### Build your own app\n"
 "\n"
-"Extend Twenty with your own objects, fields, logic functions, or AI skills. Scaffold a new app in one command:\n"
+"Extend Cybernetics with your own objects, fields, logic functions, or AI skills. Scaffold a new app in one command:\n"
 "\n"
 "```bash\n"
 "npx create-twenty-app@latest my-twenty-app\n"
@@ -17421,36 +17426,6 @@ msgid ""
 "\n"
 "See the [Getting Started guide](https://twenty.com/developers/extend/apps/getting-started) for the full walkthrough, and [Building Apps](https://twenty.com/developers/extend/apps/building) for the `defineApplication` / `defineEntity` APIs."
 msgstr ""
-"Modelul de date de bază pe care rulează fiecare spațiu de lucru Twenty.\n"
-"\n"
-"#### Ce înseamnă „fundament”\n"
-"\n"
-"Fiecare spațiu de lucru Twenty pornește cu acest set de obiecte. Ele definesc forma CRM-ului tău, incluzând relațiile, activitatea și raportarea. Tot restul, inclusiv aplicațiile din marketplace, agenții AI și obiectele personalizate, se conectează la acestea.\n"
-"\n"
-"#### Obiecte incluse\n"
-"- **Persoane și companii**: înregistrări de contact și de cont\n"
-"- **Oportunități**: pipeline-ul tău de vânzări\n"
-"- **Note și sarcini**: activitate și urmăriri\n"
-"- **Fluxuri de lucru și Tablouri de bord**: automatizare și raportare\n"
-"\n"
-"Dacă elimini această aplicație, restul Twenty nu mai are pe ce se sprijini.\n"
-"\n"
-"#### Construiește-ți propria aplicație\n"
-"\n"
-"Extinde Twenty cu propriile obiecte, câmpuri, funcții logice sau abilități AI. Inițializează o aplicație nouă cu o singură comandă:\n"
-"\n"
-"```bash\n"
-"npx create-twenty-app@latest my-twenty-app\n"
-"```\n"
-"\n"
-"Apoi, în interiorul folderului:\n"
-"\n"
-"```bash\n"
-"cd my-twenty-app\n"
-"yarn twenty dev\n"
-"```\n"
-"\n"
-"Vezi [Ghidul de pornire](https://twenty.com/developers/extend/apps/getting-started) pentru parcursul complet, și [Construirea aplicațiilor](https://twenty.com/developers/extend/apps/building) pentru API-urile `defineApplication` / `defineEntity`."
 
 #. js-lingui-id: /kfzmx
 #: src/pages/settings/legal/SettingsLegalDpa.tsx
@@ -18378,11 +18353,6 @@ msgstr ""
 #: src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx
 msgid "Turquoise"
 msgstr "Turcoaz"
-
-#. js-lingui-id: JnaRPe
-#: src/modules/spreadsheet-import/steps/components/MatchColumnsStep/components/ColumnGrid.tsx
-msgid "Twenty fields"
-msgstr "Câmpuri Twenty"
 
 #. js-lingui-id: YIjS4q
 #: src/modules/ai/components/SettingsAgentModelCapabilities.tsx
@@ -19846,10 +19816,10 @@ msgstr ""
 msgid "Weight"
 msgstr "Pondere"
 
-#. js-lingui-id: nTuObL
+#. js-lingui-id: mVfXCB
 #: src/pages/auth/SignInUp.tsx
-msgid "Welcome to Twenty"
-msgstr "Bun venit la Twenty"
+msgid "Welcome to Cybernetics"
+msgstr "Bun venit la Cybernetics"
 
 #. js-lingui-id: t8ZvkC
 #: src/pages/auth/SignInUp.tsx

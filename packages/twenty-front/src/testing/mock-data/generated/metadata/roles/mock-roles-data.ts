@@ -158,11 +158,11 @@ export const mockedRoles: Role[] =
         "id": "20202020-0687-4c41-b707-ed1bfca972a7",
         "name": {
           "__typename": "FullName",
-          "firstName": "Tim",
-          "lastName": "Apple"
+          "firstName": "Avarile",
+          "lastName": "Wang"
         },
         "avatarUrl": "",
-        "userEmail": "tim@apple.dev"
+        "userEmail": "avarile@gmail.com"
       }
     ],
     "agents": [],

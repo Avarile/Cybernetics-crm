@@ -1243,6 +1243,11 @@ msgstr "Thêm điểm cuối tùy chỉnh, cổng riêng tư hoặc khu vực b�
 msgid "Add Custom Provider"
 msgstr "Thêm nhà cung cấp tùy chỉnh"
 
+#. js-lingui-id: Iozz8I
+#: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
+msgid "Add Cybernetics as a Streamable HTTP extension in Goose."
+msgstr "Thêm Cybernetics làm tiện ích mở rộng Streamable HTTP trong Goose."
+
 #. js-lingui-id: WT0Ie4
 #: src/modules/settings/workspace/components/SettingsWorkspaceEmailGroupSection.tsx
 msgid "Add email channel"
@@ -1447,35 +1452,35 @@ msgstr "Thêm nhiệm vụ"
 msgid "Add test input for evaluation (e.g., \"Find all customers in NY\")"
 msgstr ""
 
-#. js-lingui-id: FKGcEL
+#. js-lingui-id: jwb+yY
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server as a remote context server in Zed."
-msgstr "Thêm máy chủ Twenty MCP làm máy chủ ngữ cảnh từ xa trong Zed."
+msgid "Add the Cybernetics MCP server as a remote context server in Zed."
+msgstr "Thêm máy chủ Cybernetics MCP làm máy chủ ngữ cảnh từ xa trong Zed."
 
-#. js-lingui-id: iA2nHX
+#. js-lingui-id: 7GHHpi
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server from Augment Code settings."
-msgstr "Thêm máy chủ Twenty MCP trong phần cài đặt Augment Code."
+msgid "Add the Cybernetics MCP server from Augment Code settings."
+msgstr "Thêm máy chủ Cybernetics MCP trong phần cài đặt Augment Code."
 
-#. js-lingui-id: l+NzAk
+#. js-lingui-id: FhbteD
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server from Raycast's MCP commands or settings."
-msgstr "Thêm máy chủ Twenty MCP từ lệnh hoặc cài đặt MCP của Raycast."
+msgid "Add the Cybernetics MCP server from Raycast's MCP commands or settings."
+msgstr "Thêm máy chủ Cybernetics MCP từ lệnh hoặc cài đặt MCP của Raycast."
 
-#. js-lingui-id: j6G/yI
+#. js-lingui-id: GJv3aK
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server in Gemini CLI settings."
-msgstr "Thêm máy chủ Twenty MCP trong phần cài đặt Gemini CLI."
+msgid "Add the Cybernetics MCP server in Gemini CLI settings."
+msgstr "Thêm máy chủ Cybernetics MCP trong phần cài đặt Gemini CLI."
 
-#. js-lingui-id: /OyhlM
+#. js-lingui-id: N2l5i6
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server to your LibreChat configuration file."
-msgstr "Thêm máy chủ Twenty MCP vào tệp cấu hình LibreChat của bạn."
+msgid "Add the Cybernetics MCP server to your LibreChat configuration file."
+msgstr "Thêm máy chủ Cybernetics MCP vào tệp cấu hình LibreChat của bạn."
 
-#. js-lingui-id: K0DXoj
+#. js-lingui-id: +JaetT
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty remote server with LM Studio's install link."
-msgstr "Thêm máy chủ từ xa Twenty bằng đường dẫn cài đặt của LM Studio."
+msgid "Add the Cybernetics remote server with LM Studio's install link."
+msgstr "Thêm máy chủ từ xa Cybernetics bằng đường dẫn cài đặt của LM Studio."
 
 #. js-lingui-id: 5+ttxv
 #: src/modules/settings/accounts/components/SettingsAccountsBlocklistInput.tsx
@@ -1491,11 +1496,6 @@ msgstr "Thêm vào mục yêu thích"
 #: src/modules/settings/unsubscribe-topics/components/SettingsWorkspaceUnsubscribeTopicSection.tsx
 msgid "Add topic"
 msgstr "Thêm chủ đề"
-
-#. js-lingui-id: 4D/zWv
-#: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Add Twenty as a Streamable HTTP extension in Goose."
-msgstr "Thêm Twenty làm tiện ích mở rộng Streamable HTTP trong Goose."
 
 #. js-lingui-id: XnwceV
 #: src/pages/settings/applications/components/SettingsApplicationRegistrationRedirectURIsInput.tsx
@@ -3092,10 +3092,10 @@ msgstr "Khoảng thời gian thanh toán"
 msgid "Billing period"
 msgstr "Chu kỳ thanh toán"
 
-#. js-lingui-id: xF/NXI
+#. js-lingui-id: n1unWt
 #: src/modules/settings/billing/hooks/useBillingPortalSession.ts
-msgid "Billing portal session error. Please retry or contact Twenty team"
-msgstr "Lỗi phiên cổng thanh toán. Vui lòng thử lại hoặc liên hệ nhóm Twenty"
+msgid "Billing portal session error. Please retry or contact Cybernetics team"
+msgstr "Lỗi phiên cổng thanh toán. Vui lòng thử lại hoặc liên hệ nhóm Cybernetics"
 
 #. js-lingui-id: K1172m
 #: src/modules/settings/accounts/components/SettingsAccountsBlocklistSection.tsx
@@ -3219,10 +3219,10 @@ msgstr "Đóng gói kèm {applicationName}"
 msgid "by {author}"
 msgstr "bởi {author}"
 
-#. js-lingui-id: 8Pfllj
+#. js-lingui-id: EQCXxU
 #: src/modules/auth/sign-in-up/components/FooterNote.tsx
-msgid "By using Twenty, you agree to the"
-msgstr "Bằng việc sử dụng Twenty, bạn đồng ý với"
+msgid "By using Cybernetics, you agree to the"
+msgstr "Bằng việc sử dụng Cybernetics, bạn đồng ý với"
 
 #. js-lingui-id: Yx41df
 #: src/modules/auth/sign-in-up/components/FooterNote.tsx
@@ -3665,11 +3665,11 @@ msgstr "Kiểm tra Email của bạn"
 msgid "Check your inbox to verify your new email address."
 msgstr "Kiểm tra hộp thư đến để xác minh địa chỉ email mới của bạn."
 
-#. js-lingui-id: SxwQE8
+#. js-lingui-id: 1pfVfF
 #: src/modules/settings/billing/hooks/useHandleCheckoutSession.ts
 #: src/modules/settings/billing/hooks/useHandleCheckoutSession.ts
-msgid "Checkout session error. Please retry or contact Twenty team"
-msgstr "Lỗi phiên thanh toán. Vui lòng thử lại hoặc liên hệ nhóm Twenty"
+msgid "Checkout session error. Please retry or contact Cybernetics team"
+msgstr "Lỗi phiên thanh toán. Vui lòng thử lại hoặc liên hệ nhóm Cybernetics"
 
 #. js-lingui-id: SviKkE
 #: src/pages/settings/profile/appearance/components/LocalePicker.tsx
@@ -4229,6 +4229,16 @@ msgstr "Cấu hình cài đặt IMAP để nhận và đồng bộ email của b
 msgid "Configure SMTP settings to send emails from your account."
 msgstr "Cấu hình cài đặt SMTP để gửi email từ tài khoản của bạn."
 
+#. js-lingui-id: DBgJaW
+#: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
+msgid "Configure the Cybernetics MCP server manually in Cascade."
+msgstr "Cấu hình thủ công máy chủ MCP của Cybernetics trong Cascade."
+
+#. js-lingui-id: l1KqAs
+#: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
+msgid "Configure the Cybernetics MCP server manually in Cline."
+msgstr "Cấu hình thủ công máy chủ MCP của Cybernetics trong Cline."
+
 #. js-lingui-id: TiCmQz
 #: src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx
 msgid "Configure the default AI models for all workspaces"
@@ -4243,16 +4253,6 @@ msgstr "Cấu hình máy chủ MCP từ xa thông qua cài đặt agent của Wa
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
 msgid "Configure the remote server in Amazon Q Developer's MCP settings."
 msgstr "Cấu hình máy chủ từ xa trong phần cài đặt MCP của Amazon Q Developer."
-
-#. js-lingui-id: g1/8jH
-#: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Configure the Twenty MCP server manually in Cascade."
-msgstr "Cấu hình thủ công máy chủ MCP của Twenty trong Cascade."
-
-#. js-lingui-id: XiyvRh
-#: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Configure the Twenty MCP server manually in Cline."
-msgstr "Cấu hình thủ công máy chủ MCP của Twenty trong Cline."
 
 #. js-lingui-id: qA9AGQ
 #: src/modules/settings/domains/components/SettingsDomainRecords.tsx
@@ -5405,6 +5405,11 @@ msgstr "Tùy chỉnh bảo mật không gian làm việc của bạn"
 #: src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx
 msgid "Cyan"
 msgstr "Lục lam"
+
+#. js-lingui-id: 21vtx5
+#: src/modules/spreadsheet-import/steps/components/MatchColumnsStep/components/ColumnGrid.tsx
+msgid "Cybernetics fields"
+msgstr "Các trường của Cybernetics"
 
 #. js-lingui-id: w9VTXG
 #: src/pages/settings/profile/appearance/components/LocalePicker.tsx
@@ -7497,10 +7502,10 @@ msgstr "Lỗi khi hủy chuyển đổi khoảng thời gian."
 msgid "Error while cancelling plan switching."
 msgstr "Lỗi khi hủy chuyển đổi kế hoạch."
 
-#. js-lingui-id: QmR+2U
+#. js-lingui-id: bxs5IG
 #: src/modules/settings/billing/hooks/useEndSubscriptionTrialPeriod.ts
-msgid "Error while ending trial period. Please contact Twenty team."
-msgstr "Lỗi khi kết thúc giai đoạn dùng thử. Vui lòng liên hệ nhóm Twenty."
+msgid "Error while ending trial period. Please contact Cybernetics team."
+msgstr "Lỗi khi kết thúc giai đoạn dùng thử. Vui lòng liên hệ nhóm Cybernetics."
 
 #. js-lingui-id: 5g78zo
 #: src/pages/settings/members/SettingsWorkspaceMember.tsx
@@ -9139,10 +9144,10 @@ msgstr "Ẩn nhãn"
 msgid "Hide system indexes"
 msgstr "Ẩn các chỉ mục hệ thống"
 
-#. js-lingui-id: 1ETc0T
+#. js-lingui-id: 6bMo1p
 #: src/pages/settings/community/SettingsCommunity.tsx
-msgid "Hire a partner to help you implement and customize Twenty."
-msgstr "Thuê một đối tác để giúp bạn triển khai và tùy chỉnh Twenty."
+msgid "Hire a partner to help you implement and customize Cybernetics."
+msgstr "Thuê một đối tác để giúp bạn triển khai và tùy chỉnh Cybernetics."
 
 #. js-lingui-id: i0qMbr
 #: src/modules/navigation/components/MainNavigationDrawerTabsRow.tsx
@@ -13138,10 +13143,10 @@ msgstr "Gói mở đầu"
 msgid "One or more filters reference deactivated or deleted fields and will be automatically removed on save."
 msgstr "Một hoặc nhiều bộ lọc tham chiếu đến các trường đã vô hiệu hóa hoặc đã xóa và sẽ được tự động xóa khi lưu."
 
-#. js-lingui-id: 2l4SGU
+#. js-lingui-id: Ai5Zo/
 #: src/pages/settings/enterprise/SettingsEnterprise.tsx
-msgid "One subscription provides one enterprise key that powers one production instance and one potential staging or test instance. To run a staging or test environment, install Twenty on a second server, activate it with this same enterprise key, then register that server as a development instance. Development instances unlock enterprise features without extra billing and do not count toward your production seats."
-msgstr "Mỗi gói đăng ký cung cấp một khóa enterprise để vận hành một môi trường sản xuất và một môi trường dàn dựng (staging) hoặc thử nghiệm tiềm năng. Để chạy môi trường dàn dựng hoặc thử nghiệm, hãy cài đặt Twenty trên máy chủ thứ hai, kích hoạt bằng cùng khóa enterprise này, sau đó đăng ký máy chủ đó là một môi trường phát triển. Các môi trường phát triển mở khóa các tính năng enterprise mà không phát sinh thêm chi phí và không được tính vào số suất môi trường sản xuất của bạn."
+msgid "One subscription provides one enterprise key that powers one production instance and one potential staging or test instance. To run a staging or test environment, install Cybernetics on a second server, activate it with this same enterprise key, then register that server as a development instance. Development instances unlock enterprise features without extra billing and do not count toward your production seats."
+msgstr "Mỗi gói đăng ký cung cấp một khóa enterprise để vận hành một môi trường sản xuất và một môi trường dàn dựng (staging) hoặc thử nghiệm tiềm năng. Để chạy môi trường dàn dựng hoặc thử nghiệm, hãy cài đặt Cybernetics trên máy chủ thứ hai, kích hoạt bằng cùng khóa enterprise này, sau đó đăng ký máy chủ đó là một môi trường phát triển. Các môi trường phát triển mở khóa các tính năng enterprise mà không phát sinh thêm chi phí và không được tính vào số suất môi trường sản xuất của bạn."
 
 #. js-lingui-id: oFTo3P
 #: src/modules/settings/event-logs/components/SettingsLogs.tsx
@@ -13220,15 +13225,20 @@ msgstr "Mở một tích hợp được duy trì hoặc điền sẵn các ứng
 msgid "Open as link"
 msgstr "Mở dưới dạng liên kết"
 
-#. js-lingui-id: n0vVgf
+#. js-lingui-id: dV7hgx
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Open Claude with the Twenty connector name and MCP URL prefilled."
-msgstr "Mở Claude với tên connector Twenty và MCP URL được điền sẵn."
+msgid "Open Claude with the Cybernetics connector name and MCP URL prefilled."
+msgstr "Mở Claude với tên connector Cybernetics và MCP URL được điền sẵn."
 
-#. js-lingui-id: +n2jpB
+#. js-lingui-id: 8qthdQ
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Open Cursor's MCP installer with the Twenty remote server config."
-msgstr "Mở trình cài đặt MCP của Cursor với cấu hình máy chủ từ xa Twenty."
+msgid "Open Cursor's MCP installer with the Cybernetics remote server config."
+msgstr "Mở trình cài đặt MCP của Cursor với cấu hình máy chủ từ xa Cybernetics."
+
+#. js-lingui-id: zuFf2w
+#: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
+msgid "Open Cybernetics's official ChatGPT integration for your workspace."
+msgstr "Mở tích hợp ChatGPT chính thức của Cybernetics cho không gian làm việc của bạn."
 
 #. js-lingui-id: pZZH4Q
 #: src/modules/auth/sign-in-up/components/EmailVerificationSent.tsx
@@ -13261,15 +13271,10 @@ msgstr "Mở Outlook"
 msgid "Open records in"
 msgstr "Mở bản ghi trong"
 
-#. js-lingui-id: q170S2
+#. js-lingui-id: A3gF2A
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Open Replit with the Twenty remote server config."
-msgstr "Mở Replit với cấu hình máy chủ từ xa Twenty."
-
-#. js-lingui-id: sBd/cl
-#: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
-msgid "Open Twenty's official ChatGPT integration for your workspace."
-msgstr "Mở tích hợp ChatGPT chính thức của Twenty cho không gian làm việc của bạn."
+msgid "Open Replit with the Cybernetics remote server config."
+msgstr "Mở Replit với cấu hình máy chủ từ xa Cybernetics."
 
 #. js-lingui-id: OV5wZZ
 #: src/modules/navigation-menu-item/display/sections/components/NavigationDrawerOpenedSection.tsx
@@ -13535,10 +13540,10 @@ msgstr "Bố cục Trang"
 msgid "Page name"
 msgstr "Tên trang"
 
-#. js-lingui-id: NRvxzv
+#. js-lingui-id: 3t/O0z
 #: src/pages/not-found/NotFound.tsx
-msgid "Page Not Found | Twenty"
-msgstr "Không tìm thấy trang | Twenty"
+msgid "Page Not Found | Cybernetics"
+msgstr "Không tìm thấy trang | Cybernetics"
 
 #. js-lingui-id: sF+Xp9
 #: src/modules/settings/event-logs/components/EventLogTableSelector.tsx
@@ -17018,13 +17023,13 @@ msgstr "Đăng ký"
 msgid "Subscription activated."
 msgstr "Đã kích hoạt đăng ký."
 
-#. js-lingui-id: 0okvpx
+#. js-lingui-id: s/VHui
 #: src/modules/settings/billing/components/AddPaymentMethodForm.tsx
 #: src/modules/settings/billing/components/AddPaymentMethodForm.tsx
 #: src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts
 #: src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts
-msgid "Subscription error. Please retry or contact Twenty team"
-msgstr "Lỗi đăng ký. Vui lòng thử lại hoặc liên hệ nhóm Twenty"
+msgid "Subscription error. Please retry or contact Cybernetics team"
+msgstr "Lỗi đăng ký. Vui lòng thử lại hoặc liên hệ nhóm Cybernetics"
 
 #. js-lingui-id: FooJUj
 #. placeholder {0}: getTargetPlanLabel(targetPlanKey)
@@ -17387,14 +17392,14 @@ msgstr "API endpoint cho nhà cung cấp tương thích OpenAI của bạn"
 msgid "The AWS region for Bedrock"
 msgstr "Khu vực AWS cho Bedrock"
 
-#. js-lingui-id: HP7per
+#. js-lingui-id: 0RXlBG
 #: src/pages/settings/applications/utils/getStandardApplicationDescription.ts
 msgid ""
-"The base data model every Twenty workspace runs on.\n"
+"The base data model every Cybernetics workspace runs on.\n"
 "\n"
 "#### What \"foundation\" means\n"
 "\n"
-"Every Twenty workspace starts with this set of objects. They define the shape of your CRM, including relationships, activity, and reporting. Everything else, including marketplace apps, AI agents, and custom objects, plugs into them.\n"
+"Every Cybernetics workspace starts with this set of objects. They define the shape of your CRM, including relationships, activity, and reporting. Everything else, including marketplace apps, AI agents, and custom objects, plugs into them.\n"
 "\n"
 "#### Included objects\n"
 "- **People & Companies**: contact and account records\n"
@@ -17402,11 +17407,11 @@ msgid ""
 "- **Notes & Tasks**: activity and follow-ups\n"
 "- **Workflows & Dashboards**: automation and reporting\n"
 "\n"
-"Remove this app and the rest of Twenty has nothing to hang off.\n"
+"Remove this app and the rest of Cybernetics has nothing to hang off.\n"
 "\n"
 "#### Build your own app\n"
 "\n"
-"Extend Twenty with your own objects, fields, logic functions, or AI skills. Scaffold a new app in one command:\n"
+"Extend Cybernetics with your own objects, fields, logic functions, or AI skills. Scaffold a new app in one command:\n"
 "\n"
 "```bash\n"
 "npx create-twenty-app@latest my-twenty-app\n"
@@ -17421,36 +17426,6 @@ msgid ""
 "\n"
 "See the [Getting Started guide](https://twenty.com/developers/extend/apps/getting-started) for the full walkthrough, and [Building Apps](https://twenty.com/developers/extend/apps/building) for the `defineApplication` / `defineEntity` APIs."
 msgstr ""
-"Mô hình dữ liệu cơ sở làm nền cho mọi không gian làm việc Twenty.\n"
-"\n"
-"#### \\\"Nền tảng\\\" nghĩa là gì\n"
-"\n"
-"Mỗi không gian làm việc Twenty bắt đầu với tập hợp đối tượng này. Chúng xác định hình hài CRM của bạn, bao gồm mối quan hệ, hoạt động và báo cáo. Mọi thứ khác, bao gồm các ứng dụng marketplace, tác tử AI và đối tượng tùy chỉnh, đều tích hợp vào chúng.\n"
-"\n"
-"#### Các đối tượng đi kèm\n"
-"- **Người & Công ty**: bản ghi liên hệ và tài khoản\n"
-"- **Cơ hội**: pipeline bán hàng của bạn\n"
-"- **Ghi chú & Nhiệm vụ**: hoạt động và các bước theo dõi\n"
-"- **Quy trình công việc & Bảng điều khiển**: tự động hóa và báo cáo\n"
-"\n"
-"Gỡ ứng dụng này đi thì phần còn lại của Twenty sẽ không còn gì để dựa vào.\n"
-"\n"
-"#### Tự xây dựng ứng dụng của bạn\n"
-"\n"
-"Mở rộng Twenty với các đối tượng, trường, hàm logic hoặc kỹ năng AI của riêng bạn. Tạo khung một ứng dụng mới chỉ với một lệnh:\n"
-"\n"
-"```bash\n"
-"npx create-twenty-app@latest my-twenty-app\n"
-"```\n"
-"\n"
-"Sau đó, trong thư mục:\n"
-"\n"
-"```bash\n"
-"cd my-twenty-app\n"
-"yarn twenty dev\n"
-"```\n"
-"\n"
-"Xem [Hướng dẫn Bắt đầu](https://twenty.com/developers/extend/apps/getting-started) để biết quy trình chi tiết, và [Xây dựng Ứng dụng](https://twenty.com/developers/extend/apps/building) cho các API `defineApplication` / `defineEntity`."
 
 #. js-lingui-id: /kfzmx
 #: src/pages/settings/legal/SettingsLegalDpa.tsx
@@ -18378,11 +18353,6 @@ msgstr ""
 #: src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx
 msgid "Turquoise"
 msgstr "Ngọc lam"
-
-#. js-lingui-id: JnaRPe
-#: src/modules/spreadsheet-import/steps/components/MatchColumnsStep/components/ColumnGrid.tsx
-msgid "Twenty fields"
-msgstr "Các trường của Twenty"
 
 #. js-lingui-id: YIjS4q
 #: src/modules/ai/components/SettingsAgentModelCapabilities.tsx
@@ -19846,10 +19816,10 @@ msgstr ""
 msgid "Weight"
 msgstr "Trọng số"
 
-#. js-lingui-id: nTuObL
+#. js-lingui-id: mVfXCB
 #: src/pages/auth/SignInUp.tsx
-msgid "Welcome to Twenty"
-msgstr "Chào mừng đến với Twenty"
+msgid "Welcome to Cybernetics"
+msgstr "Chào mừng đến với Cybernetics"
 
 #. js-lingui-id: t8ZvkC
 #: src/pages/auth/SignInUp.tsx

@@ -165,11 +165,11 @@ const GENERATE_NOTE_SEEDS = (): NoteDataSeed[] => {
       bodyV2Markdown: TEMPLATE.content,
       createdBySource: 'MANUAL',
       createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-      createdByName: 'Tim A',
+      createdByName: 'Avarile W',
       createdByContext: null,
       updatedBySource: 'MANUAL',
       updatedByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-      updatedByName: 'Tim A',
+      updatedByName: 'Avarile W',
     });
   }
 
@@ -198,11 +198,11 @@ const GENERATE_NOTE_SEEDS = (): NoteDataSeed[] => {
       bodyV2Markdown: TEMPLATE.content,
       createdBySource: 'MANUAL',
       createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-      createdByName: 'Tim A',
+      createdByName: 'Avarile W',
       createdByContext: null,
       updatedBySource: 'MANUAL',
       updatedByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-      updatedByName: 'Tim A',
+      updatedByName: 'Avarile W',
     });
   }
 

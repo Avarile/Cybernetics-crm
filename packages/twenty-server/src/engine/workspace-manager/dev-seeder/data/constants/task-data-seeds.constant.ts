@@ -215,10 +215,10 @@ const GENERATE_TASK_SEEDS = (): TaskDataSeed[] => {
       assigneeId: GET_RANDOM_ASSIGNEE(),
       createdBySource: 'MANUAL',
       createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-      createdByName: 'Tim A',
+      createdByName: 'Avarile W',
       updatedBySource: 'MANUAL',
       updatedByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-      updatedByName: 'Tim A',
+      updatedByName: 'Avarile W',
     });
   }
 
@@ -250,10 +250,10 @@ const GENERATE_TASK_SEEDS = (): TaskDataSeed[] => {
       assigneeId: GET_RANDOM_ASSIGNEE(),
       createdBySource: 'MANUAL',
       createdByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-      createdByName: 'Tim A',
+      createdByName: 'Avarile W',
       updatedBySource: 'MANUAL',
       updatedByWorkspaceMemberId: WORKSPACE_MEMBER_DATA_SEED_IDS.TIM,
-      updatedByName: 'Tim A',
+      updatedByName: 'Avarile W',
     });
   }
 

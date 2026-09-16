@@ -139,7 +139,7 @@ const seedConnectedAccounts = async ({
   const connectedAccounts = [
     {
       id: ids.connectedAccountIds.TIM,
-      handle: 'tim@apple.dev',
+      handle: 'avarile@gmail.com',
       provider: 'google',
       userWorkspaceId: ids.userWorkspaceIds.TIM,
       workspaceId,
@@ -213,7 +213,7 @@ const seedMessageChannels = async ({
   const messageChannels = [
     {
       id: ids.messageChannelIds.TIM,
-      handle: 'tim@apple.dev',
+      handle: 'avarile@gmail.com',
       visibility: MessageChannelVisibility.SHARE_EVERYTHING,
       type: MessageChannelType.EMAIL,
       syncStage: MessageChannelSyncStage.MESSAGE_LIST_FETCH_PENDING,
@@ -421,7 +421,7 @@ const seedCalendarChannels = async ({
   const calendarChannels = [
     {
       id: ids.calendarChannelIds.TIM,
-      handle: 'tim@apple.dev',
+      handle: 'avarile@gmail.com',
       visibility: CalendarChannelVisibility.METADATA,
       syncStage: 'CALENDAR_EVENT_LIST_FETCH_PENDING',
       isContactAutoCreationEnabled: true,

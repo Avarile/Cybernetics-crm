@@ -143,10 +143,10 @@ msgstr "'n Funksie met hierdie naam bestaan reeds."
 msgid "A hand-picked audience of people"
 msgstr "’n Handgekose gehoor van mense"
 
-#. js-lingui-id: TF/ZV2
+#. js-lingui-id: tZuG5r
 #: src/engine/core-modules/billing/reminders/services/billing-reminder.service.ts
-msgid "A heads up before your Twenty trial ends"
-msgstr "’n Vroeë waarskuwing voordat jou Twenty-proeftydperk eindig"
+msgid "A heads up before your Cybernetics trial ends"
+msgstr "’n Vroeë waarskuwing voordat jou Cybernetics-proeftydperk eindig"
 
 #. js-lingui-id: 6yZjO1
 #: src/engine/core-modules/application/application.exception.ts
@@ -4285,10 +4285,10 @@ msgstr "Koppelkolomnaam word vereis."
 msgid "Join table linking message channel message associations to message folders"
 msgstr "Skakeltabel wat boodskapkanaalboodskapassosiasies aan boodskapvouers koppel"
 
-#. js-lingui-id: PviVyk
+#. js-lingui-id: B9uw5T
 #: src/engine/core-modules/workspace-invitation/services/workspace-invitation.service.ts
-msgid "Join your team on Twenty"
-msgstr "Sluit by jou span aan op Twenty"
+msgid "Join your team on Cybernetics"
+msgstr "Sluit by jou span aan op Cybernetics"
 
 #. js-lingui-id: ffWso3
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-call-recording-standard-flat-field-metadata.util.ts
@@ -7204,10 +7204,10 @@ msgstr "Stelselvelde kan nie uitgevee word nie"
 msgid "System fields cannot be updated"
 msgstr "Stelselvelde kan nie bygewerk word nie"
 
-#. js-lingui-id: aK2k19
+#. js-lingui-id: z7sVs8
 #: src/engine/metadata-modules/index-metadata/services/index-metadata.service.ts
-msgid "System indexes are required for Twenty to work and cannot be deleted."
-msgstr "Stelselindekse is nodig vir Twenty om te werk en kan nie uitgevee word nie."
+msgid "System indexes are required for Cybernetics to work and cannot be deleted."
+msgstr "Stelselindekse is nodig vir Cybernetics om te werk en kan nie uitgevee word nie."
 
 #. js-lingui-id: /ojawH
 #: src/engine/workspace-manager/workspace-migration/workspace-migration-builder/validators/services/flat-object-metadata-validator.service.ts
@@ -7853,11 +7853,11 @@ msgstr "Hierdie API-sleutel het verval. Skep asseblief 'n nuwe een."
 msgid "This API key has no role assigned."
 msgstr "Hierdie API-sleutel het geen rol toegeken nie."
 
-#. js-lingui-id: zISk4k
+#. js-lingui-id: E1/sDY
 #: src/engine/core-modules/application/application-registration/application-registration.exception.ts
 #: src/engine/core-modules/application/application.exception.ts
-msgid "This app requires a newer version of the Twenty server. Please upgrade your server or use a compatible app version."
-msgstr "Hierdie app vereis 'n nuwer weergawe van die Twenty-bediener. Gradeer asseblief jou bediener op of gebruik 'n versoenbare app-weergawe."
+msgid "This app requires a newer version of the Cybernetics server. Please upgrade your server or use a compatible app version."
+msgstr "Hierdie app vereis 'n nuwer weergawe van die Cybernetics-bediener. Gradeer asseblief jou bediener op of gebruik 'n versoenbare app-weergawe."
 
 #. js-lingui-id: y2nks/
 #: src/engine/core-modules/application/application.exception.ts
@@ -9053,10 +9053,10 @@ msgstr "Webhaak nie gevind nie."
 msgid "Wednesday"
 msgstr "Woensdag"
 
-#. js-lingui-id: TVkCrJ
+#. js-lingui-id: vOt+3i
 #: src/engine/core-modules/email-verification/services/email-verification.service.ts
-msgid "Welcome to Twenty: Please Confirm Your Email"
-msgstr "Welkom by Twenty: Bevestig Asseblief Jou E-pos"
+msgid "Welcome to Cybernetics: Please Confirm Your Email"
+msgstr "Welkom by Cybernetics: Bevestig Asseblief Jou E-pos"
 
 #. js-lingui-id: nCHI/F
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-message-campaign-standard-flat-field-metadata.util.ts
@@ -9737,6 +9737,16 @@ msgstr "Jou toepassingsweergawe is verouderd. Verfris asseblief die bladsy om vo
 msgid "Your billing subscription is corrupted. Please contact support."
 msgstr "Jou faktuurintekening is beskadig. Kontak asseblief ondersteuning."
 
+#. js-lingui-id: 0jeTK+
+#: src/engine/core-modules/billing/reminders/services/billing-reminder.service.ts
+msgid "Your Cybernetics plan renews soon"
+msgstr "Jou Cybernetics-plan word binnekort hernu"
+
+#. js-lingui-id: QeS9S8
+#: src/engine/core-modules/billing/reminders/services/billing-reminder.service.ts
+msgid "Your Cybernetics trial is ending soon"
+msgstr "Jou Cybernetics-proeftydperk eindig binnekort"
+
 #. js-lingui-id: bTyBrW
 #: src/engine/core-modules/auth/services/auth.service.ts
 msgid "Your Password Has Been Successfully Changed"
@@ -9753,16 +9763,6 @@ msgstr "Jou rol in hierdie werkruimte kon nie gevind word nie. Kontak asseblief 
 #: src/engine/workspace-manager/twenty-standard-application/utils/field-metadata/compute-company-standard-flat-field-metadata.util.ts
 msgid "Your team member responsible for managing the company account"
 msgstr "Jou spanlid verantwoordelik vir die bestuur van die maatskappy rekening"
-
-#. js-lingui-id: sOfbGC
-#: src/engine/core-modules/billing/reminders/services/billing-reminder.service.ts
-msgid "Your Twenty plan renews soon"
-msgstr "Jou Twenty-plan word binnekort hernu"
-
-#. js-lingui-id: qW+K5e
-#: src/engine/core-modules/billing/reminders/services/billing-reminder.service.ts
-msgid "Your Twenty trial is ending soon"
-msgstr "Jou Twenty-proeftydperk eindig binnekort"
 
 #. js-lingui-id: ej/tZF
 #: src/engine/core-modules/graphql/hooks/use-graphql-error-handler.hook.ts

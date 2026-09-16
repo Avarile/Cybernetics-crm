@@ -7,11 +7,11 @@ const CONNECTED_ACCOUNT_ID = '20202020-1111-4111-8111-111111111111';
 
 const buildAccount = (id: string) => ({
   id,
-  handle: 'tim@apple.dev',
+  handle: 'avarile@gmail.com',
   provider: ConnectedAccountProvider.GOOGLE,
   scopes: ['email'],
   connectionParameters: null,
-  messageChannels: [{ id: 'message-channel-1', handle: 'tim@apple.dev' }],
+  messageChannels: [{ id: 'message-channel-1', handle: 'avarile@gmail.com' }],
 });
 
 const baseParams = {

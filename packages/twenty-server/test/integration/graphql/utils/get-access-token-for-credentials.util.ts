@@ -24,7 +24,7 @@ type GetAccessTokenForCredentialsArgs = {
 // entry in test-tokens.json.
 export const getAccessTokenForCredentials = async ({
   email,
-  password = 'tim@apple.dev',
+  password = 'Avarile19840123!',
 }: GetAccessTokenForCredentialsArgs): Promise<string> => {
   const origin = buildAppleOrigin();
 
