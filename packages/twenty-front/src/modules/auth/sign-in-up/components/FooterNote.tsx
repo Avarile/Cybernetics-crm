@@ -61,7 +61,7 @@ type FooterNoteProps = {
 };
 
 export const FooterNote = ({
-  secondaryAgreement = 'privacyPolicy',
+  secondaryAgreement: _secondaryAgreement = 'privacyPolicy',
 }: FooterNoteProps) => {
   const { isOnAWorkspace } = useIsCurrentLocationOnAWorkspace();
 
@@ -71,6 +71,7 @@ export const FooterNote = ({
   if (!isOnAWorkspace) {
     return (
       <StyledCopyContainer>
+        {/*
         <Trans>By using Cybernetics, you agree to the</Trans>{' '}
         <a
           href="https://twenty.com/legal/terms"
@@ -98,6 +99,10 @@ export const FooterNote = ({
           </a>
         )}
         .
+        */}
+        © 2026 Cybernetics. All rights reserved.
+        <br />
+        By Avarile.
       </StyledCopyContainer>
     );
   }
@@ -112,6 +117,7 @@ export const FooterNote = ({
           <StyledSeparator>•</StyledSeparator>
         </>
       )}
+      {/*
       <a
         href="https://twenty.com/legal/privacy"
         target="_blank"
@@ -127,6 +133,10 @@ export const FooterNote = ({
       >
         <Trans>Terms of Service</Trans>
       </a>
+      */}
+      © 2026 Cybernetics. All rights reserved.
+      <br />
+      By Avarile.
     </StyledLinksContainer>
   );
 };
