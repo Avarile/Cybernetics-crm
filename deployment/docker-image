@@ -1,0 +1,112 @@
+     Plan: Build a Cybernetics CRM image from dev and swap it into the K3s twenty app
+
+     Context
+
+     The dev branch is a rebranded fork of upstream Twenty ("Cybernetics"). Its server version is 2.22.0 (packages/twenty-server/src/engine/core-modules/upgrade/constants/twenty-current-version.constant.ts).
+     The K3s app at /home/avarile/dev-ops/k3s-deployment/apps/twenty runs the stock twentycrm/twenty:v2.2.0. Both deployments are currently scaled to 0/0.
+     Goal: build our own image from dev on the K3s host, then use it for twenty-server and twenty-worker. The app keeps using the shared infra services it already uses: pgvector, Redis DB 3, and the MinIO bucket twenty.
+     Decision (you): reset the existing twenty data with no backup.
+
+     Findings
+
+     - Build host = K3s-server. It is x86_64 with 12 cores and Docker 29.6 + buildx. Your Mac is arm64 and has no Docker, so building there is not an option.
+       - The remote clone /home/avarile/projects/cybernetics-crm is already on dev @ c5b4de16, the same commit as local HEAD.
+     - Getting the image into the cluster. There is no registry. We use the existing house pattern (scripts/rebuild-backend.sh, apps/cybernetics/readme.md):
+       a. docker save the image.
+       b. sudo k3s ctr images import it. This needs your sudo password, so you run it yourself.
+       c. Set imagePullPolicy: Never on the containers.
+     - Dockerfile: use packages/twenty-docker/twenty/Dockerfile as is, with target twenty. It already copies the branded frontend (dist/front), so no code changes are needed.
+     - Startup flow in entrypoint.sh: the server sees an empty DB, runs database:init:prod, then upgrade and cron:register:all. The worker uses command: ["yarn","worker:prod"], which skips the entrypoint; this is fine because
+       DISABLE_DB_MIGRATIONS=true is set on it anyway.
+     - Env / config: the existing ConfigMap and Secret already cover what's required: APP_SECRET, PG_DATABASE_URL, REDIS_URL, and the S3 settings. ENCRYPTION_KEY is optional and falls back to APP_SECRET. No new infra resources are needed.
+     - ⚠ Memory risk: the frontend build uses --max-old-space-size=8192. The node shows about 4 GB available (11 GB of 15 GB used) plus 15 GB of swap. The build should finish but may be slow and swap heavily. The node also has about 44 GB of
+       reclaimable Docker images and build cache.
+     - ⚠ Probes: the current liveness probe (180 s delay, then 4×30 s) can kill the server during first-boot schema init. Add a startupProbe.
+     - ⚠ SERVER_URL is https://crm.avarile.com, but the cluster has no Ingress for it (only NodePort 30310). The frontend calls the API at SERVER_URL.
+       - Confirm that the domain already routes to 192.168.0.103:30310 (tunnel or proxy).
+       - If it doesn't, set SERVER_URL=http://192.168.0.103:30310 in the ConfigMap.
+
+     Steps
+
+     1. Build the image on K3s-server
+
+     ssh K3s-server
+     cd /home/avarile/projects/cybernetics-crm
+     git fetch origin && git checkout dev && git pull --ff-only
+     TAG="release.$(date -u +%Y-%m-%dT%H-%M-%SZ).1"; IMAGE="cybernetics-crm:$TAG"
+     docker builder prune -f --filter until=720h        # optional: free cache
+     docker build --target twenty --platform linux/amd64 \
+       --build-arg APP_VERSION=2.22.0 \
+       -f packages/twenty-docker/twenty/Dockerfile -t "$IMAGE" .
+     docker run --rm --entrypoint sh "$IMAGE" -c 'ls dist/front/index.html && grep -o Cybernetics dist/front/index.html | head -1'   # smoke check
+     The build takes about 20–40 minutes. Watch memory with free -g.
+
+     2. Import the image into containerd (you run this: sudo)
+
+     docker save "$IMAGE" | sudo k3s ctr images import -
+     sudo k3s ctr -n k8s.io images ls | grep cybernetics-crm
+
+     3. Reset data (deployments are already at 0)
+
+     - Postgres:
+     kubectl exec -n infra deploy/pgvector -c <pg-container> -- sh -c 'psql -U "$POSTGRES_USER" -c "DROP DATABASE IF EXISTS twenty WITH (FORCE)"'
+     - Redis DB 3:
+     kubectl exec -n infra deploy/redis -c <redis-container> -- redis-cli -a "$REDIS_PASSWORD" -n 3 FLUSHDB
+       Use the password from infra/redis/secret.yaml.
+     - MinIO bucket contents:
+     kubectl run mc-reset -n twenty --rm -it --restart=Never --image=minio/mc:latest -- \
+       sh -c 'mc alias set infra http://minio.infra.svc.cluster.local:9000 <KEY> <SECRET> && mc rm -r --force infra/twenty'
+     - Recreate the DB and bucket:
+     kubectl delete job -n twenty --all --ignore-not-found
+     kubectl apply -f apps/twenty/init-jobs.yaml
+     kubectl wait --for=condition=complete job --all -n twenty --timeout=180s
+
+     4. Update the manifests in /home/avarile/dev-ops/k3s-deployment/apps/twenty/
+
+     - deployment.yaml (both containers):
+       - Set image: cybernetics-crm:<TAG>.
+       - Add imagePullPolicy: Never.
+     - deployment.yaml (server only):
+       - Add startupProbe: { httpGet: { path: /healthz, port: 3000 }, periodSeconds: 10, failureThreshold: 60 }, which allows up to 10 minutes.
+       - Lower the liveness initialDelaySeconds to about 30, since the startup probe now protects first boot.
+     - configmap.yaml: change SERVER_URL only if the domain isn't routed (see Findings).
+     - readme.md:
+       - Update the image row and the "Deploy" / "New image release" sections to use the build → docker save | sudo k3s ctr images import - → bump-tag flow.
+       - Note that the image is built from projects/cybernetics-crm@dev.
+     - Optional: add scripts/rebuild-twenty.sh, modeled on scripts/rebuild-backend.sh. It would:
+       a. Build.
+       b. Save a tarball.
+       c. Pause for the sudo import.
+       d. Swap the image tag.
+       e. kubectl apply -k, then scale both deployments to 1 and wait for the rollout.
+
+     5. Deploy
+
+     cd /home/avarile/dev-ops/k3s-deployment
+     kubectl apply -k apps/twenty/
+     kubectl scale deploy/twenty-server deploy/twenty-worker -n twenty --replicas=1
+     kubectl logs -f deploy/twenty-server -n twenty   # expect "Database appears to be empty" → init → "Successfully migrated DB!"
+     kubectl rollout status deploy/twenty-server -n twenty --timeout=600s
+     kubectl rollout status deploy/twenty-worker -n twenty --timeout=300s
+     Note: replicas in deployment.yaml is 1, so apply -k alone may already scale the deployments up. kubectl scale makes sure of it.
+
+     Verification
+
+     - kubectl get pods -n twenty -o jsonpath='{..image}' shows cybernetics-crm:<TAG> for both pods, and both are Running/Ready with no restarts.
+     - curl -s -o /dev/null -w '%{http_code}\n' http://192.168.0.103:30310/healthz returns 200.
+     - Open http://192.168.0.103:30310 (or https://crm.avarile.com):
+       - The Cybernetics branding shows (logo, title, footer note).
+       - Sign-up creates a workspace and admin.
+       - Uploading an avatar or attachment works, which proves MinIO works.
+     - The worker logs show jobs being consumed, and there are no Redis or PG errors.
+
+     Rollback
+
+     Set the image back to twentycrm/twenty:v2.2.0, remove imagePullPolicy, and run apply -k.
+     Because the DB was re-initialized at 2.22.0, a rollback also needs another data reset: step 3, then the init jobs.
+
+     Actions only you can do
+
+     1. Run sudo k3s ctr images import (step 2).
+     2. Confirm how crm.avarile.com reaches the cluster, or approve changing SERVER_URL to the NodePort URL.
+     3. Allow kubectl exec into the infra pgvector and redis pods. The auto-mode classifier blocked this when I tried a read-only query. You can also run the step 3 commands yourself.
