@@ -3,9 +3,20 @@
   "name": "Cybernetics",
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff",
+  "theme_color": "#0E1116",
+  "background_color": "#0E1116",
   "icons": [
+    {
+      "src": "images/icons/cybernetics-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "images/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
     {
       "src": "images/icons/windows11/SmallTile.scale-100.png",
       "sizes": "71x71"

@@ -1,17 +1,19 @@
-import { Img } from '@react-email/components';
+import { Text } from '@react-email/components';
 
+import { emailTheme } from 'src/common-style';
+
+// Text wordmark instead of an image until a hosted logo URL exists.
 const logoStyle = {
-  marginBottom: '40px',
+  color: emailTheme.font.colors.highlighted,
+  fontFamily: emailTheme.font.family,
+  fontSize: emailTheme.font.size.lg,
+  fontWeight: emailTheme.font.weight.bold,
+  letterSpacing: '0.08em',
+  lineHeight: emailTheme.font.lineHeight,
+  margin: '0 0 40px',
+  textTransform: 'uppercase' as const,
 };
 
 export const Logo = () => {
-  return (
-    <Img
-      src="https://app.twenty.com/images/icons/windows11/Square150x150Logo.scale-100.png"
-      alt="Twenty logo"
-      width="40"
-      height="40"
-      style={logoStyle}
-    />
-  );
+  return <Text style={logoStyle}>Cybernetics</Text>;
 };

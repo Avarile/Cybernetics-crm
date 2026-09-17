@@ -9,11 +9,10 @@ import { HighlightedText } from 'src/components/HighlightedText';
 import { Link } from 'src/components/Link';
 import { MainText } from 'src/components/MainText';
 import { Title } from 'src/components/Title';
-import { DEFAULT_WORKSPACE_LOGO } from 'src/constants/DefaultWorkspaceLogo';
 import { capitalize } from 'src/utils/capitalize';
 import { createI18nInstance } from 'src/utils/i18n.utils';
 import { type APP_LOCALES } from 'twenty-shared/translations';
-import { getImageAbsoluteURI } from 'twenty-shared/utils';
+import { getImageAbsoluteURI, isDefined } from 'twenty-shared/utils';
 
 type SendApprovedAccessDomainValidationProps = {
   link: string;
@@ -65,12 +64,16 @@ export const SendApprovedAccessDomainValidation = ({
         <br />
       </MainText>
       <HighlightedContainer>
-        <Img
-          src={workspaceLogo ?? DEFAULT_WORKSPACE_LOGO}
-          width={40}
-          height={40}
-          alt={workspace.name ?? 'Workspace logo'}
-        />
+        {isDefined(workspaceLogo) ? (
+          <Img
+            src={workspaceLogo}
+            width={40}
+            height={40}
+            alt={workspace.name ?? 'Workspace logo'}
+          />
+        ) : (
+          <></>
+        )}
         {workspace.name ? <HighlightedText value={workspace.name} /> : <></>}
         <CallToAction href={link} value={i18n._('Validate domain')} />
       </HighlightedContainer>
